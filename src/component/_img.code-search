@@ -1,0 +1,472 @@
+# Query: <img
+
+341 results - 64 files
+
+src\component\blogsContent.js:
+  109:               <img src='/assets/images/newimg/blog1.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  121:               <img src='/assets/images/newimg/blog2.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  133:               <img src='/assets/images/newimg/blog3.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  154:            <img src='/assets/images/newimg/blog3.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  172:            <img src='/assets/images/newimg/blog1.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  191:            <img src='/assets/images/newimg/blog1.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  211:           <img src='/assets/images/newimg/blog1.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  231:           <img src='/assets/images/newimg/blog1.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+  252:            <img src='/assets/images/newimg/blog2.jpg'  className='range-lg bg-transparent rounded-4xl p-5'/>
+
+src\component\bookWriting.js:
+  35:                                 <img src="/assets/images/newimg/black-check.png" alt="" />Being published on all online platforms, such as Kindle.
+  38:                                 <img src="/assets/images/newimg/black-check.png" alt="" />An eye-catching cover design.
+  41:                                 <img src="/assets/images/newimg/black-check.png" alt="" />Fast and affordable self-publishing.
+  44:                                 <img src="/assets/images/newimg/black-check.png" alt="" />Additions, revisions, and re-editions!
+  49:                         <img src="/assets/images/newimg/pursuit-img.webp" className="float-left max-w-[unset] absolute top-10 right-0 xs:relative xs:float-none xs:w-[100%] xs:left-0" alt="ghostwriting agency" />
+
+src\component\bookWriting1.js:
+  35:                                 <img src="/assets/images/newimg/color-check1.png" alt="" className='h-5 w-5 '/>
+  39:                                 <img src="/assets/images/newimg/color-check1.png" alt="" className='h-5 w-5'/><h5  className='font-medium text-[18px]'>An eye-catching cover design.</h5>
+  42:                                 <img src="/assets/images/newimg/color-check1.png" alt="" className='h-5 w-5'/><h5  className='font-medium text-[18px]'>Fast and affordable self-publishing.</h5>
+  45:                                 <img src="/assets/images/newimg/color-check1.png" alt="" className='h-5 w-5'/><h5  className='font-medium text-[18px]'>Additions, revisions, and re-editions!</h5>
+  50:                         <img src="/assets/images/newimg/industry-section.png" className="float-left max-w-[unset] absolute top-10 right-0 xs:relative xs:float-none xs:w-[100%] xs:left-0" alt="ghostwriting agency" />
+
+src\component\bottomLogosNEW.js:
+  51:                 <div><img src='/assets/images/newimg/amazon.png' width={120} height={45} alt="amazon" /></div>
+  52:                 <div><img src='/assets/images/newimg/kobo.png' width={120} height={45} alt="kobo" /></div>
+  53:                 <div><img src='/assets/images/newimg/google-play.png' width={120} height={45} alt="google-play" /></div>
+  54:                 <div><img src='/assets/images/newimg/scribed.png' width={120} height={45} alt="scribed" /></div>
+  55:                 <div><img src='/assets/images/newimg/ibook.png' width={120} height={45} alt="ibook" /></div>
+  56:                 <div><img src='/assets/images/newimg/kobo.png' width={120} height={45} alt="ibook" /></div>
+
+src\component\cta3.js:
+   51:                                         <img className='' src='/assets/images/newimg/02.png'/>
+   58:                                         <img className='' src='/assets/images/newimg/03.png'/>
+   65:                                         <img className='' src='/assets/images/newimg/06.png'/>
+   72:                                         <img className='' src='/assets/images/newimg/06.png'/>
+   79:                                         <img className='' src='/assets/images/newimg/06.png'/>
+   86:                                         <img className='' src='/assets/images/newimg/06.png'/>
+   99:                                         <img className='' src='/assets/images/newimg/02.png'/>
+  106:                                         <img className='' src='/assets/images/newimg/03.png'/>
+  113:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  120:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  127:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  134:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  147:                                         <img className='' src='/assets/images/newimg/02.png'/>
+  154:                                         <img className='' src='/assets/images/newimg/03.png'/>
+  161:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  168:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  175:                                         <img className='' src='/assets/images/newimg/06.png'/>
+  182:                                         <img className='' src='/assets/images/newimg/06.png'/>
+
+src\component\cta4.js:
+  28:               <img className='z-10 relative -m-32 left-56' src='/assets/images/newimg/stack-books-with-word-title.png'/>
+
+src\component\demandingSpecilaist1.js:
+  47:                             <img className='relative' src="/assets/images/newimg/demanding-specialist.png" />
+
+src\component\Footer.js:
+  22:                 <img src="/assets/images/newimg/logo-gr.png" alt="" />
+
+src\component\Footer1.js:
+  21:                 <img src="/assets/images/education-logo.png" alt="" />
+
+src\component\Header.js:
+  34:                   <img src="/assets/images/barnett-logo.webp" alt="Barnett ghostwriting logo" />
+  44:                       <li className=''><Link href="/affordable-ghostwriting-services/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Ghostwriting</Link></li>
+  45:                       <li className=''><Link href="/seo-content-writing-services/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> SEO Writing</Link></li>
+  46:                       <li className=''><Link href="/article-writing-services/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Article Writing</Link></li>
+  47:                       <li className=''><Link href="/web-copywriting-services/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Web Copy Writing</Link></li>
+  48:                       <li className=''><Link href="/press-release-writing-services/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Press Release</Link></li>
+  49:                       <li className=''><Link href="/script-writing-services"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Script Writing</Link></li>
+  50:                       <li className=''><Link href="/magazine-writing/"><img className='w-[50%] mx-auto' src="/assets/images/newimg/magazine-writing.png" /> Magazine Writing</Link></li>
+
+src\component\Headernew.js:
+  33:                   <img src="/assets/images/education-logo.png" alt="Barnett ghostwriting logo" />
+  45:                       <li className='flex text-center justify-center items-center'><Link href="/affordable-ghostwriting-services/"><img className='text-center'  src="/assets/images/newimg/ghostwriting.png" width={60} height={60}/><p className='py-3'>Ghostwriting</p></Link></li>
+  46:                       <li className='flex text-center justify-center items-center'><Link href="/seo-content-writing-services/"><img  src="/assets/images/newimg/SEO-Writing.png" width={60} height={60}/><p className='py-3'>SEO Writing</p> </Link></li>
+  47:                       <li className='flex text-center justify-center items-center'><Link href="/article-writing-services/"><img src="/assets/images/newimg/Article-Writing.png" width={60} height={60}/><p className='py-3'>Article Writing</p></Link></li>
+  48:                       <li className='flex text-center justify-center items-center'><Link href="/web-copywriting-services/"><img src="/assets/images/newimg/Web-Copy-Writing.png" width={60} height={60}/><p className='py-3'>Web Copy Writing</p></Link></li>
+  49:                       <li className='flex text-center justify-center items-center'><Link href="/press-release-writing-services/"><img src="/assets/images/newimg/Press-Release.png" width={60} height={60}/>Press Release</Link></li>
+  50:                       <li className='flex text-center justify-center items-center'><Link href="/script-writing-services"><img src="/assets/images/newimg/Script-Writing.png" width={60} height={60}/> Script Writing</Link></li>
+  51:                       <li className='flex text-center justify-center items-center'><Link href="/magazine-writing/"><img src="/assets/images/newimg/magazine-writing.png" width={60} height={60}/> Magazine Writing</Link></li>
+
+src\component\LogoSlider.js:
+  51:             <div><img src='/assets/images/newimg/amazon.png' width={120} height={45} alt="amazon" /></div>
+  52:             <div><img src='/assets/images/newimg/kobo.png' width={120} height={45} alt="kobo" /></div>
+  53:             <div><img src='/assets/images/newimg/google-play.png' width={120} height={45} alt="google-play" /></div>
+  54:             <div><img src='/assets/images/newimg/scribed.png' width={120} height={45} alt="scribed" /></div>
+  55:             <div><img src='/assets/images/newimg/ibook.png' width={120} height={45} alt="ibook" /></div>
+  56:             <div><img src='/assets/images/newimg/Barnes-Noble-Logo.png' width={120} height={45} alt="Barnes-Noble-Logo" /></div>
+
+src\component\Lpslider1.js:
+   53:                                 <img src='/assets/images/sliderImg/book-cover1.png' alt="ebook1.webp" className='h-[100%]' width={246} height={369} />
+   66:                                 <img src='/assets/images/sliderImg/john-h-winner.png' alt="ebook1.webp" className='h-[100%]' width={246} height={369} />
+   79:                                 <img src='/assets/images/sliderImg/brandon-richard.png' alt="ebook1.webp"  className='h-[100%]' width={246} height={369}/>
+   92:                                 <img src='/assets/images/sliderImg/matt-udoni.png' alt="ebook1.webp" className='h-[100%]' width={246} height={369}/>
+  105:                                 <img src='/assets/images/sliderImg/book5.png' alt="ebook1.webp" className='h-[100%]' width={246} height={369}/>
+  118:                                 <img src='/assets/images/sliderImg/book1.webp' alt="ebook1.webp" className='h-[100%]' width={246} height={369}/>
+  131:                                 <img src='/assets/images/sliderImg/book2.webp' alt="ebook2.webp" className='h-[100%]' width={246} height={369}/>
+  144:                                 <img src='/assets/images/sliderImg/book3.webp' alt="ebook3.webp" className='h-[100%]' width={246} height={369}/>
+  157:                                 <img src='/assets/images/sliderImg/book4.webp' alt="ebook4.webp" className='h-[100%]' width={246} height={369}/>
+  170:                                 <img src='/assets/images/sliderImg/book5.webp' alt="ebook5.webp" className='h-[100%]' width={246} height={369}/>
+  183:                                 <img src='/assets/images/sliderImg/book6.webp' alt="ebook6.webp" className='h-[100%]' width={246} height={369} />
+
+src\component\marketBook.js:
+  29:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Video Trailer</li>
+  32:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Audio Book</li>
+  35:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Book Cover Designing</li>
+  38:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Author Website</li>
+  41:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Book Publishing</li>
+  44:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Social Media Marketing</li>
+  47:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Book Translation</li>
+  50:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Marketing Consultation</li>
+  53:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Amazon Marketing</li>
+  56:                                     <img src="/assets/images/newimg/black-check.png" alt="" />Barnes &amp; Noble Nook Edition</li>
+  68:                             <img src="/assets/images/newimg/editing-img.webp" className="float-left" alt="ghostwriting agency" />
+
+src\component\marketBook1.js:
+  48:                             <img className='relative' src="/assets/images/newimg/bearded-author-glasses-reading-book.png" />
+
+src\component\Slider.js:
+  109:                         <img className="img-full image-one image-children" id="svg-children" src="/assets/images/banner/slider-1.png" />
+  110:                         <img className="img-full image-two image-business" id="svg-business" src="/assets/images/banner/slider-2.png" />
+  111:                         <img className="img-full image-three image-self" id="svg-self" src="/assets/images/banner/slider-3.png" />
+  112:                         <img className="img-full image-four image-romance" id="svg-romance" src="/assets/images/banner/slider-4.png" />
+  113:                         <img className="img-full image-five image-mystery" id="svg-stery" src="/assets/images/banner/slider-5.png" />
+  114:                         <img className="img-full image-six image-adventure" id="svg-adventure" src="/assets/images/banner/slider-6.png" />
+
+src\component\Slider1.js:
+  65:                         <img src='/assets/images/newimg/open-book-with-hard-cover-isolated-white.png' />
+  72:                                 <div><img src='/assets/images/newimg/amazon.png' width={120} height={45} alt="amazon" /></div>
+  73:                                 <div><img src='/assets/images/newimg/kobo.png' width={120} height={45} alt="kobo" /></div>
+  74:                                 <div><img src='/assets/images/newimg/google-play.png' width={120} height={45} alt="google-play" /></div>
+  75:                                 <div><img src='/assets/images/newimg/scribed.png' width={120} height={45} alt="scribed" /></div>
+  76:                                 <div><img src='/assets/images/newimg/ibook.png' width={120} height={45} alt="ibook" /></div>
+  77:                                 <div><img src='/assets/images/newimg/kobo.png' width={120} height={45} alt="amazon" /></div>
+  79:                                 {/* <div><img src='/assets/images/newimg/Barnes-Noble-Logo.png'  alt="Barnes-Noble-Logo" /></div> */}
+
+src\component\Slider2.js:
+  47:               <img className="img" src={x.img} alt={x.title} />
+
+src\component\SliderLogos.js:
+  47:                             <div><img src='/assets/images/newimg/amazon.png' width={150} height={100} alt="amazon" /></div>
+  48:                             <div><img src='/assets/images/newimg/kobo.png' width={150} height={100} alt="kobo" /></div>
+  49:                             <div><img src='/assets/images/newimg/google-play.png' width={150} height={100} alt="google-play" /></div>
+  50:                             <div><img src='/assets/images/newimg/scribed.png' width={150} height={100} alt="scribed" /></div>
+  51:                             <div><img src='/assets/images/newimg/ibook.png' width={150} height={100} alt="ibook" /></div>
+  52:                             <div><img src='/assets/images/newimg/Barnes-Noble-Logo.png' alt="Barnes-Noble-Logo" /></div>
+
+src\component\SwiperComponent.js:
+  111:             <img className="" src={testimonial.avatar} alt={testimonial.name} />
+
+src\component\VideoSection.js:
+  14:                         <img src="/assets/images/newimg/vid1.png" alt="Pope Henrry" />
+  23:                         <img src="/assets/images/newimg/vid2.png" alt="Mila Willow" />
+  32:                         <img src="/assets/images/newimg/vid3.png" alt="Ella Alice" />
+
+src\component\workMode.js:
+  44:                                     <img src="/assets/images/newimg/process-1.png" alt="" />
+  59:                                     <img src="/assets/images/newimg/process-2.png" alt="professional article writing services" />
+  73:                                     <img src="/assets/images/newimg/process-3.png" alt="seo article writing service" />
+  86:                                     <img src="/assets/images/newimg/process-4.png" alt="" />
+
+src\component\ArticleWritingServices\featuredSec.js:
+  29:                 {/* <img src='/assets/images/newimg/seo-featured-banner.png' className='mx-auto' alt='seo-featured-banner' /> */}
+
+src\component\ArticleWritingServices\LetUsHelpArticle.js:
+  20:                                 <img className='mx-auto mb-8 hover:invert-1 hover:brightness-100 hover:grayscale ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  26:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  32:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  38:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  44:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  50:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+
+src\component\blogs\TabNavigation.js:
+  118:               <img src='/assets/images/newimg/shalf-book.png'/>
+  138:               <img src='/assets/images/newimg/shalf-book.png'/>
+  158:               <img src='/assets/images/newimg/shalf-book.png'/>
+  178:               <img src='/assets/images/newimg/shalf-book.png'/>
+  198:               <img src='/assets/images/newimg/shalf-book.png'/>
+  218:               <img src='/assets/images/newimg/shalf-book.png'/>
+  238:               <img src='/assets/images/newimg/shalf-book.png'/>
+
+src\component\bookPublication\featuredSec.js:
+  25:               <img src='/assets/images/newimg/girl-library.png' className=' text-center' alt='book-publishing-services' />
+
+src\component\bookPublication\LetUsWEARE.js:
+  13:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/publication-section.png' />
+  26:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  31:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" /> 
+  35:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  39:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  43:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  47:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+
+src\component\bookPublication\publishing.js:
+  23:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/graduation-cap-earth-globe.png' />
+
+src\component\CoverDesign\BookCovers.js:
+   59:                                     <img src='/assets/images/newimg/bold-typography.png' alt="bold-typography" />
+   61:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   68:                                     <img src='/assets/images/newimg/Illustrations.png' alt="Illustrations" />
+   70:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   77:                                     <img src='/assets/images/newimg/Retro.png' alt="Retro" />
+   79:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   86:                                     <img src='/assets/images/newimg/millennial-pink.png' alt="millennial-pink" />
+   88:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   95:                                     <img src='/assets/images/newimg/colorful-children.png' alt="Colorful children books illustrations" />
+   97:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  104:                                     <img src='/assets/images/newimg/designs-for-classic-literature.png' alt="designs-for-classic-literature" />
+  106:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  113:                                     <img src='/assets/images/newimg/photography.png' alt="photography.png" />
+  115:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  122:                                     <img src='/assets/images/newimg/minimalist-covers.png' alt="minimalist-covers" />
+  124:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  131:                                     <img src='/assets/images/newimg/Portrait.png' alt="Portrait" />
+  133:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  140:                                     <img src='/assets/images/newimg/Classic.png' alt="Classic" />
+  142:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  149:                                     <img src='/assets/images/newimg/hand-drawn-covers.png' alt="hand-drawn-covers" />
+  151:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+
+src\component\CoverDesign\CoverDesign.js:
+  26:                                 <img src='/assets/images/newimg/concept-development.png' className='w-[100%]' />
+  40:                                 <img src='/assets/images/newimg/custom-illustration.png' className='w-[100%]' />
+  54:                                 <img src='/assets/images/newimg/typography-and-layout.png' className='w-[100%]' />
+  68:                                 <img src='/assets/images/newimg/print-and-digital.png' className='w-[100%]' />
+
+src\component\CoverDesign\featuredSec.js:
+  25:               <img src='/assets/images/newimg/book-cover-table-banner.png' className='mx-auto float-right' alt='seo-featured-banner' />
+
+src\component\CoverDesign\LetUsWEARE.js:
+  13:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/outstanding-cover.png' />
+  26:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  30:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  34:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  38:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+
+src\component\CoverDesign\ProcessWorkMode.js:
+   33:                                         <img src='/assets/images/newimg/printed-books.png' />
+   50:                                         <img src='/assets/images/newimg/photo-album1.png' />
+   67:                                         <img src='/assets/images/newimg/COMICBOOK.png' />
+   84:                                         <img src='/assets/images/newimg/OMYB9R0.png' />
+  101:                                         <img src='/assets/images/newimg/your-book.png' className='w-[75%]'/>
+  118:                                         <img src='/assets/images/newimg/e-books.png' />
+
+src\component\CoverDesign\publishing.js:
+   59:                                     <img src='/assets/images/newimg/bold-typography.png' alt="bold-typography" />
+   61:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   68:                                     <img src='/assets/images/newimg/Illustrations.png' alt="Illustrations" />
+   70:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   77:                                     <img src='/assets/images/newimg/Retro.png' alt="Retro" />
+   79:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   86:                                     <img src='/assets/images/newimg/millennial-pink.png' alt="millennial-pink" />
+   88:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   95:                                     <img src='/assets/images/newimg/colorful-children.png' alt="Colorful children books illustrations" />
+   97:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  104:                                     <img src='/assets/images/newimg/designs-for-classic-literature.png' alt="designs-for-classic-literature" />
+  106:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  113:                                     <img src='/assets/images/newimg/photography.png' alt="photography.png" />
+  115:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  122:                                     <img src='/assets/images/newimg/minimalist-covers.png' alt="minimalist-covers" />
+  124:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  131:                                     <img src='/assets/images/newimg/Portrait.png' alt="Portrait" />
+  133:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  140:                                     <img src='/assets/images/newimg/Classic.png' alt="Classic" />
+  142:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  149:                                     <img src='/assets/images/newimg/hand-drawn-covers.png' alt="hand-drawn-covers" />
+  151:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+
+src\component\CoverDesign\TabCovers.js:
+   71:               <img src='/assets/images/newimg/dust-cover.png'/>
+   91:               <img src='/assets/images/newimg/hardboard-cover.png'/>
+  111:               <img src='/assets/images/newimg/paper-book-cover.png'/>
+
+src\component\editing\CoverDesign.js:
+  26:                                 <img src='/assets/images/newimg/concept-development.png' className='w-[100%]' />
+  40:                                 <img src='/assets/images/newimg/custom-illustration.png' className='w-[100%]' />
+  54:                                 <img src='/assets/images/newimg/typography-and-layout.png' className='w-[100%]' />
+
+src\component\editing\featuredSec.js:
+  25:               <img src='/assets/images/newimg/editing-banner.png' className='mx-auto float-right' alt='seo-featured-banner' />
+
+src\component\editing\LetUsWEARE.js:
+  13:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/OJK93M1321.png' />
+  26:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  30:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  34:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  38:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  42:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+  46:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block h-5 w-5 hover:invert-75" />
+
+src\component\genre\featuredSec.js:
+  25:               <img src='/assets/images/newimg/genre-banner.png' className='object-cover' alt='seo-featured-banner' />
+
+src\component\genre\TabNavigation.js:
+  118:               <img src='/assets/images/newimg/shalf-book.png'/>
+  138:               <img src='/assets/images/newimg/shalf-book.png'/>
+  158:               <img src='/assets/images/newimg/shalf-book.png'/>
+  178:               <img src='/assets/images/newimg/shalf-book.png'/>
+  198:               <img src='/assets/images/newimg/shalf-book.png'/>
+  218:               <img src='/assets/images/newimg/shalf-book.png'/>
+  238:               <img src='/assets/images/newimg/shalf-book.png'/>
+
+src\component\ghostWritingServices\creativeGhostWriters copy.js:
+  76:                             <img src="/assets/images/newimg/bring-book.png" alt="fiction ghostwriting services" />
+
+src\component\ghostWritingServices\creativeGhostWriters.js:
+  81:                             <img src="/assets/images/newimg/bringing-your-imagination.png" alt="fiction ghostwriting services" />
+
+src\component\ghostWritingServices\featuredSec.js:
+  26:             <img src='/assets/images/newimg/professional-ghostwriting.png' className='mx-auto' alt='professional-ghostwriting' />
+
+src\component\ghostWritingServices\ghostWriting copy.js:
+  23:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Writing Genuine Content based on your idea</li>
+  24:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Critical Review, Editing, and Proofreading</li>
+  25:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Extensive Formatting, Typesetting, &amp; Designing</li>
+  26:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Publishing, Branding, Marketing, and Promotions</li>
+  27:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Critical Review and Analysis</li>
+  28:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Book Coaching</li>
+  29:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Copy Editing</li>
+  30:           <li><img src="/assets/images/newimg/color-check.png" alt="Checkmark" className="inline-block mr-2" />Developmental Editing</li>
+
+src\component\ghostWritingServices\ghostWriting.js:
+  29:               <img src='/assets/images/newimg/ghostwriting_book.png' className='mx-auto' />
+  34:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Writing Genuine Content based on your idea</li>
+  35:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Critical Review, Editing, and Proofreading</li>
+  36:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Extensive Formatting, Typesetting, &amp; Designing</li>
+  37:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Publishing, Branding, Marketing, and Promotions</li>
+  38:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Critical Review and Analysis</li>
+  39:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Book Coaching</li>
+  40:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Copy Editing</li>
+  41:             <li className='border-b-2 border-solid border-[#afafaf] py-4 xs:mr-0 md:mr-5'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2" />Developmental Editing</li>
+
+src\component\ghostWritingServices\LetUsHelp.js:
+  21:                                 <img className='mx-auto my-12 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  29:                                 <img className='mx-auto my-12' src="/assets/images/newimg/checkmark.png" alt="Reviewed by editors" />
+  37:                                 <img className='mx-auto my-12' src="/assets/images/newimg/checkmark.png" alt="Unlimited Revisions" />
+  45:                                 <img className='mx-auto my-12' src="/assets/images/newimg/checkmark.png" alt="Rights of Ownership Maintained" />
+
+src\component\MagazineWriting\featuredSec.js:
+  27:               <img src='/assets/images/newimg/medium-magazine-writing.png' className='mx-auto' alt='seo-featured-banner' />
+
+src\component\MagazineWriting\LetUsMagazine-copy.js:
+  24:                             <img className='' src='/assets/images/newimg/magazine-box-1.jpg'/>
+  29:                             <img className='' src='/assets/images/newimg/magazine-box-2.jpg'/>
+  34:                             <img className='' src='/assets/images/newimg/magazine-box-3.jpg'/>
+  39:                             <img className='' src='/assets/images/newimg/magazine-box-4.jpg'/>
+  44:                             <img className='' src='/assets/images/newimg/magazine-box-5.jpg'/>
+  49:                             <img className='' src='/assets/images/newimg/magazine-box-6.jpg'/>
+
+src\component\MagazineWriting\LetUsMagazine.js:
+  21:                                 <img className='mx-auto mb-8 invert-100 group-hover:bg-white ' src="/assets/images/newimg/eassy-articles.png" alt="Seal of Approval" />
+  27:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/historical-articles.png" alt="Seal of Approval" />
+  33:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/profile-articles.png" alt="Seal of Approval" />
+  39:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/service-article.png" alt="Seal of Approval" />
+  45:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/research-articles.png" alt="Seal of Approval" />
+  51:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/informative-articles.png" alt="Seal of Approval" />
+
+src\component\marketing\featuredSec.js:
+  27:               <img src='/assets/images/newimg/marketing.png' className='object-fill'/>
+
+src\component\PressReleaseWritingServices\featuredSec.js:
+  28:             <img src='/assets/images/newimg/rolled-newspaper.png' alt='seo-featured-banner' />
+
+src\component\PressReleaseWritingServices\LetUsPress copy.js:
+  27:                                     <img src='/assets/images/newimg/ebook-check.png'/>
+  34:                                 <img src='/assets/images/newimg/ebook-check.png'/>
+  41:                                 <img src='/assets/images/newimg/ebook-check.png'/>
+  48:                                 <img src='/assets/images/newimg/ebook-check.png'/>
+  55:                                 <img src='/assets/images/newimg/ebook-check.png'/>
+  62:                                 <img src='/assets/images/newimg/ebook-check.png'/>
+  71:                             <img src="/assets/images/newimg/newspaper-press-release.png" alt="Newspaper Press Release" />
+
+src\component\PressReleaseWritingServices\LetUsPress.js:
+  13:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/press-newspapers-magazines.png' />
+  25:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />EIN Presswire</li>
+  26:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />eReleases</li>
+  27:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />issueWire</li>
+  28:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />Linking news</li>
+  29:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />Newswire</li>
+  30:                                     <li className='border-b-2 border-solid border-[#a5a5a5] py-3'><img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />PR Distribution</li>
+
+src\component\printing\featuredSec.js:
+  23:               <img src='/assets/images/newimg/man-working-printing-house-with-paper-paints.png' className='mx-auto float-right' alt='seo-featured-banner' />
+
+src\component\printing\LetUsWEARE.js:
+  13:                             <img className=' hover:-translate-y-1 hover:scale-110' src='/assets/images/newimg/publication-section.png' />
+  26:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+  30:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+  34:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+  38:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+  42:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+  46:                                         <img src="/assets/images/newimg/color-check1.png" alt="Checkmark" className="inline-block mr-2 hover:invert-75" />
+
+src\component\printing\publishing.js:
+   59:                                     <img src='/assets/images/newimg/bold-typography.png' alt="bold-typography" />
+   61:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   68:                                     <img src='/assets/images/newimg/Illustrations.png' alt="Illustrations" />
+   70:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   77:                                     <img src='/assets/images/newimg/Retro.png' alt="Retro" />
+   79:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   86:                                     <img src='/assets/images/newimg/millennial-pink.png' alt="millennial-pink" />
+   88:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+   95:                                     <img src='/assets/images/newimg/colorful-children.png' alt="Colorful children books illustrations" />
+   97:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  104:                                     <img src='/assets/images/newimg/designs-for-classic-literature.png' alt="designs-for-classic-literature" />
+  106:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  113:                                     <img src='/assets/images/newimg/photography.png' alt="photography.png" />
+  115:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  122:                                     <img src='/assets/images/newimg/minimalist-covers.png' alt="minimalist-covers" />
+  124:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  131:                                     <img src='/assets/images/newimg/Portrait.png' alt="Portrait" />
+  133:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  140:                                     <img src='/assets/images/newimg/Classic.png' alt="Classic" />
+  142:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+  149:                                     <img src='/assets/images/newimg/hand-drawn-covers.png' alt="hand-drawn-covers" />
+  151:                                         <img src='/assets/images/newimg/rectangle-11.png' alt="before-image" className='absolute top-0 right-0 bottom-0 left-0' />
+
+src\component\printing\PublishingWorkMode.js:
+  26:                                 <img src='/assets/images/newimg/low-upfront-costs.png' className='w-[100%]' />
+  40:                                 <img src='/assets/images/newimg/complete-publishing.png' className='w-[100%]' />
+  54:                                 <img src='/assets/images/newimg/print-demand.png' className='w-[100%]' />
+  68:                                 <img src='/assets/images/newimg/reach-millioner.png' className='w-[100%]' />
+
+src\component\ScriptWritingServices\featuredSec.js:
+  27:               <img src='/assets/images/newimg/script-writing-banner.png' className='mx-auto' alt='seo-featured-banner' />
+
+src\component\ScriptWritingServices\LetUsPress.js:
+  21:                                 <img className='mx-auto mb-5 invert-100 group-hover:bg-white ' src="/assets/images/newimg/filmwriting.png" alt="Seal of Approval" />
+  27:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/videowriting.png" alt="Seal of Approval" />
+  33:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/Documentarywriting.png" alt="Seal of Approval" />
+  39:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/storyScripting.png" alt="Seal of Approval" />
+  45:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/Manuscripting.png" alt="Seal of Approval" />
+  51:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/content-scripting.png" alt="Seal of Approval" />
+
+src\component\ScriptWritingServices\LetUsScript.js:
+  23:                             <img className='' src='/assets/images/newimg/script-writing-1.jpg'/>
+  28:                             <img className='' src='/assets/images/newimg/script-writing-2.jpg'/>
+  33:                             <img className='' src='/assets/images/newimg/script-writing-3.jpg'/>
+  38:                             <img className='' src='/assets/images/newimg/script-writing-4.jpg'/>
+  43:                             <img className='' src='/assets/images/newimg/script-writing-5.jpg'/>
+  48:                             <img className='' src='/assets/images/newimg/script-writing-6.jpg'/>
+
+src\component\SeoContentWriting\featuredSec.js:
+  29:             {/* <img src='/assets/images/newimg/seo-featured-banner.png' className='mx-auto' alt='seo-featured-banner' /> */}
+
+src\component\SeoContentWriting\LetUsHelpSEO.js:
+  19:                                 <img className='mx-auto mb-5  ' src="/assets/images/newimg/reasearch.png" alt="Seal of Approval" />
+  25:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/copywriting.png" alt="Seal of Approval" />
+  31:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/seo.png" alt="Seal of Approval" />
+  37:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/Professional.png" alt="Seal of Approval" />
+  43:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/Optimization.png" alt="Seal of Approval" />
+  49:                                 <img className='mx-auto mb-5 ' src="/assets/images/newimg/link.png" alt="Seal of Approval" />
+
+src\component\WebCopywritingServices\featuredSec.js:
+  30:             {/* <img src='/assets/images/newimg/seo-featured-banner.png' className='mx-auto' alt='seo-featured-banner' /> */}
+
+src\component\WebCopywritingServices\LetUsHelpWeb.js:
+  10:                         <img className=' hover:-translate-y-1 hover:scale-105' src='/assets/images/newimg/communicate.png' />
+  36:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  42:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  48:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  54:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  60:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
+  66:                                 <img className='mx-auto mb-8 ' src="/assets/images/newimg/checkmark.png" alt="Seal of Approval" />
