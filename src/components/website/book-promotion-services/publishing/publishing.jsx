@@ -27,10 +27,22 @@ export default function Publishing() {
                 matter most.
               </p>
 
-              <ul className="mt-8 grid grid-cols-2 gap-x-5 gap-y-4">
+              <ul className="mt-8 gap-x-5 gap-y-3 list-inside list-disc">
                 {[
-                  ["50+", "Expert"],
-                  ["10+", "Years of Experience"],
+                  "Personalized marketing plans based on your book audience",
+                  "Right readers through data driven ads",
+                  "Strategic content visuals that captivate and convert",
+                  "Transparent reporting and daily optimization",
+                ].map((description, i) => (
+                  <li key={i}>
+                    <span className="xl:text-[18px] md:text-[15px] text-[13px] font-bold leading-normal text-navy">
+                      {description}
+                    </span>
+                  </li>
+                ))}
+                {/* {[
+                  ["50+", "Happy Customers"],
+                  ["10+", "Increased Road"],
                   ["20+", "Internationally Best Sellers"],
                   ["600+", "Books Published"],
                 ].map(([counter, description], i) => (
@@ -42,7 +54,7 @@ export default function Publishing() {
                       {description}
                     </span>
                   </li>
-                ))}
+                ))} */}
               </ul>
 
               <div className={style.cta}>

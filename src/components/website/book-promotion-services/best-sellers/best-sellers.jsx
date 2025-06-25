@@ -16,7 +16,7 @@ export default function BestSellers() {
       <div className={styles.root}>
         <div className="container">
           <div className={styles.content}>
-            <h2 className={styles.title}>Our Best Sellers</h2>
+            <h2 className={styles.title}>Our Portfolio</h2>
             <p className={styles.para}>
               We are a full-cycle book writing that combines creative thinking
               with technical expertise to create creative writing that solve
