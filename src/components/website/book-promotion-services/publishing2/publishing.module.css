@@ -1,0 +1,26 @@
+.root {
+  @apply relative  pb-[50px] lg:py-[100px] lg:mb-[80px] bg-blue;
+}
+
+/* .img {
+  @apply lg:absolute lg:top-10 lg:right-14 lg:bottom-0 lg:w-[50%] lg:h-full lg:object-contain lg:object-center;
+} */
+
+.grids {
+  @apply lg:grid grid-cols-2 items-center justify-start mt-[50px] lg:mt-0 text-white;
+}
+
+.cols {
+  @apply md:basis-[45%] sm:pl-[30px] xl:pl-[40px];
+}
+
+.title {
+  @apply text-[30px] sm:text-[30px] xl:text-[30px] 2xl:text-[35px] 3xl:text-[40px] leading-[1.1] font-mono mb-5 max-w-[600px];
+}
+
+.para {
+  @apply text-[14px] sm:text-[16px] 3xl:text-[18px] leading-normal text-white max-w-[700px];
+}
+.cta {
+  @apply flex gap-4 mt-7;
+}
