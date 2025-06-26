@@ -4,7 +4,7 @@ import style from "./publishing.module.css";
 import Image from "next/image";
 // Media
 import Checkbox from "media/home/checkbox-pink.svg";
-import Book from "media/children-book-illustrations/hero.png";
+import Book from "media/children-book-illustrations/pso.png";
 import CheckIcon from "media/children-book-illustrations/checkGreen.png";
 // Components
 import { CTAGroupLight } from "@/components";
@@ -18,23 +18,25 @@ export default function Publishing() {
           <div className={style.grids}>
             <div className={style.cols}>
               <h2 className={style.title}>
-                Beyond Illustrations — A Range of Book Illustration Services
+                Can't Seem to Get Your Book Together?
               </h2>
               <p className={style.para}>
-                Whether you need cartoon illustration services for a story of
-                triumph, a fantastic adventure, or a personal journey, our team
-                of talented children's book illustrators ensures your story
-                resonates with young readers and makes an impact.
+                Have an idea but can't seem to execute it? Our experts know why.
               </p>
 
               <ul className="mt-8 grid lg:grid-cols-2 grid-cols-1 gap-5">
                 {[
-                  "Children's Book Illustration Services", 
-                  "Book editing", 
-                  "Book marketing", 
-                  "eBook script",
-                  "Book formatting", 
-                  "Book Cover",
+                  "Not enough time.",
+                  "Unsure how to publish.",
+                  "Stuck in the story.",
+                  "Worried about costs.",
+                  "Where to hire children's book illustrator?",
+                  "Lack of guidance.",
+                  "No clear direction.",
+                  "Marketing feels hard.",
+                  "Inconsistent writing routine.",
+                  "Trying to make it perfect.", 
+                  "Feels overwhelming.",
                 ].map((e, i) => (
                   <li
                     key={i}

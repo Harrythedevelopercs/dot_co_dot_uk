@@ -3,10 +3,7 @@ import Image from "next/image";
 // Css
 import style from "./hero.module.css";
 // Media
-import Bg from "media/children-book-illustrations/hero-bg.webp";
-import Child1 from "media/children-book-illustrations/slide-01.webp";
-import Child2 from "media/children-book-illustrations/slide-02.webp";
-import Child3 from "media/children-book-illustrations/slide-03.webp";
+import Bg from "media/book-launch-campaigns/hero-bg.png";
 import CheckIcon from "media/children-book-illustrations/checkGreen.png";
 // Components
 import { CTAGroupDark } from "@/components";
@@ -47,17 +44,8 @@ export default function Hero() {
                 <CTAGroupDark />
               </div>
             </div>
-            
           </div>
-          
         </div>
-        <div className="hidden xl:block xl:mt-[-12%] !z-50 relative">
-                <div className="flex gap-x-5 items-center justify-center mx-10">
-                  <Image src={Child1} width={600} height={600} className="" alt="children-book-illustrations"/>
-                  <Image src={Child2} width={600} height={600} className="" alt="children-book-illustrations"/>
-                  <Image src={Child3} width={600} height={600} className="" alt="children-book-illustrations"/>
-                </div>
-            </div>
       </section>
     </>
   );

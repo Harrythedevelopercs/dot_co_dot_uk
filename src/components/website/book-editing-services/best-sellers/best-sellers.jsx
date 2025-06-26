@@ -3,13 +3,13 @@ import Image from "next/image"
 // Css
 import styles from "./best-sellers.module.css"
 // Media
-import Book1 from "media/children-book-illustrations/bestSellers/portfolio-01.png"
-import Book2 from "media/children-book-illustrations/bestSellers/portfolio-02.png"
-import Book3 from "media/children-book-illustrations/bestSellers/portfolio-03.png"
-import Book4 from "media/children-book-illustrations/bestSellers/portfolio-04.png"
-import Book5 from "media/children-book-illustrations/bestSellers/portfolio-08.png"
-import Book6 from "media/children-book-illustrations/bestSellers/portfolio-06.png"
-import Book7 from "media/children-book-illustrations/bestSellers/1.png"
+import Book1 from "media/book-launch-campaigns/bestSellers/1.png"
+import Book2 from "media/book-launch-campaigns/bestSellers/2.png"
+import Book3 from "media/book-launch-campaigns/bestSellers/3.png"
+import Book4 from "media/book-launch-campaigns/bestSellers/4.png"
+import Book5 from "media/book-launch-campaigns/bestSellers/5.png"
+import Book6 from "media/book-launch-campaigns/bestSellers/6.png"
+import Book7 from "media/book-launch-campaigns/bestSellers/7.png"
 export default function BestSellers() {
   return (
     <section>
@@ -31,7 +31,7 @@ export default function BestSellers() {
                     <Image
                       src={e}
                       alt="domain"
-                      className={`${styles.img} group-hover:scale-105 w-full`}
+                      className={`${styles.img} group-hover:scale-105`}
                     />
                   </div>
                 ))}
@@ -44,7 +44,7 @@ export default function BestSellers() {
                   Masterpiece To The World
                 </h3>
                 <div>
-                  <Image src={Book7} alt="domain" className={`${styles.rightImg}`} />
+                  <Image src={Book7} alt="domain" className={styles.rightImg} />
                 </div>
               </div>
             </div>

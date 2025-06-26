@@ -81,6 +81,10 @@ const servicesThree = [
     text: "Children Book Illustrations",
     href: "/children-book-illustrations",
   },
+  {
+    text: "Book Editing Services",
+    href: "/book-editing-services",
+  },
 ]
 
 export default function Submenu() {

@@ -3,7 +3,7 @@
 }
 
 .img {
-  @apply lg:absolute lg:top-4 lg:left-14 lg:bottom-0 lg:w-[45%] lg:h-full lg:object-contain lg:object-center rounded-xl;
+  @apply lg:absolute lg:top-4 lg:left-14 lg:bottom-0 lg:w-[50%] lg:h-full lg:object-contain lg:object-center;
 }
 
 .grids {

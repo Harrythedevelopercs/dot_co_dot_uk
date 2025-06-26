@@ -4,7 +4,7 @@ import style from "./publishing.module.css";
 import Image from "next/image";
 // Media
 import Checkbox from "media/home/checkbox-pink.svg";
-import Book from "media/children-book-illustrations/hero.png";
+import Book from "media/children-book-illustrations/pso.png";
 import CheckIcon from "media/children-book-illustrations/checkGreen.png";
 // Components
 import { CTAGroupLight } from "@/components";

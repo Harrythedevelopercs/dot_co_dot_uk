@@ -15,5 +15,5 @@
 }
 
 .bg {
-  @apply object-cover object-center -z-50;
+  @apply object-cover object-center -z-10;
 }
