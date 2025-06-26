@@ -13,8 +13,8 @@ export default function PublishedBooks() {
                 <div className="container">
                     <div className={style.content}>
                         <div>
-                            <h2 className={style.title}>Our Bestsellers!</h2>
-                            <p className={style.para}>From ghostwriting to editing and formatting, at Best Publishing Services, we take pride in boasting our team of professionals who produce successful and critically acclaimed books in all genres. Here’s a sneak preview of some of our work</p>
+                            <h2 className={style.title}>Our Best Sellers!</h2>
+                            <p className={style.para}>From editing and formatting to publishing, at Best Publishing Services, we take pride in boasting our team of professionals who produce successful and critically acclaimed books in all genres. Here’s a sneak preview of some of our work.</p>
                         </div>
                         <div className={style.cta}>
                             <CTAGroupLight />

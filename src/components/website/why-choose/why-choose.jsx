@@ -7,7 +7,7 @@ import { CTAGroupLight } from "@/components"
 import styles from "./why-choose.module.css"
 
 export default function WhyChoose({
-    title = "Why Choose Best Publishing Services?",
+    title = "Why Choose <br/> Best Publishing Services?",
     desc = "At Best Publishing Services, we combine creativity with strategy to deliver impactful solutions for promoting your book.",
     data = [
         {
@@ -34,7 +34,7 @@ export default function WhyChoose({
                 <div className="container">
                     <div className={styles.grids}>
                         <div>
-                            <h2 className={styles.title}>{title}</h2>
+                            <h2 className={styles.title} dangerouslySetInnerHTML={{__html: title}}/>
                             <p className={styles.para}>{desc}</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />

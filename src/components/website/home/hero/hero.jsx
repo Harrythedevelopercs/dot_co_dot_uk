@@ -16,7 +16,7 @@ export default function Hero() {
           <div>
             <h1 className={style.title}>
               Critically Acclaimed & <br className="hidden lg:block" /> Globally
-              Trusted Book <br className="hidden lg:block" /> Marketing
+              Trusted Book <br className="hidden lg:block" /> Publishing
               Services!
             </h1>
             <p className={style.para}>

@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from "react"
 // Embla
 import useEmblaCarousel from "embla-carousel-react"
 // Media
-import Client1 from "media/home/testimonials/clients/7.jpg"
+import Client1 from "media/home/testimonials/clients/testimonial1.png"
 import Client2 from "media/home/testimonials/clients/8.jpg"
 import Client3 from "media/home/testimonials/clients/9.jpg"
 import Client4 from "media/home/testimonials/clients/10.jpg"
@@ -25,7 +25,7 @@ import styles from "./cards.module.css"
 
 const data1 = [
   [
-    "https://player.vimeo.com/progressive_redirect/playback/1054327194/rendition/480p/file.mp4?loc=external&log_user=0&signature=8f0dfe3f3c175ffc3bae8cc20544d7e96bc39d6ef0c983db4d023bd4c3f036f8",
+    "./videotesti_1.mp4",
     Client1,
   ],
   // [
