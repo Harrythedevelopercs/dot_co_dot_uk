@@ -21,7 +21,7 @@ export default function TrendingPodcast() {
                 </MobileRender>
                 <div className={`container ${style.left}`}>
                     <div className={style.content}>
-                        <h2 className={style.title}>No #1 <br /> Podcast Charts with Best Publishing Services</h2>
+                        <h2 className={style.title}>Podcast Charts with Best Publishing Services</h2>
                         <MobileRender>
                             <p className={style.para}>Podcasts offer an easy yet impactful way of connecting with relevant audiences in your field. With Best Publishing Services’s Podcast services, your book stays in the limelight of bestsellers, what’s new and trending, and relevant hot topics through genuine and engaging discussions by industry professionals.</p>
                             <div className={style.cta}>

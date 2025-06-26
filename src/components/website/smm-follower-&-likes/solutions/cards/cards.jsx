@@ -12,7 +12,7 @@ const data = [
     {
         img: One,
         title: "Reputation Analysis",
-        para: "Delivering top services to connect your target audience with your content."
+        para: "Deliveringservices to connect your target audience with your content."
     },
     {
         img: Two,

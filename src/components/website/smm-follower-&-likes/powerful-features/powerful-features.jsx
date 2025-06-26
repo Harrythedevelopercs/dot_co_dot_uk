@@ -17,7 +17,7 @@ export default function PowerfulFeatures() {
                         </div>
                         <div className={styles.content}>
                             <h2 className={styles.title}>Accessible and simplified solutions to generate social media power</h2>
-                            <p className={styles.para}>Everything you need to dominate social media—fortified with the industry’s #1 rated customer support.</p>
+                            <p className={styles.para}>Everything you need to dominate social media—fortified with the industry’s rated customer support.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

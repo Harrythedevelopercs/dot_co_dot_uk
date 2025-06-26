@@ -22,7 +22,7 @@ export default function LatestPublished() {
                     <div className={style.grids}>
                         <div className={style.cols}>
                             <h2 className={style.title}>Best Publishing Services’s Newest Release</h2>
-                            <p className={style.para}>Discover our newest additions featured on Amazon’s top-selling and hottest release with rising fame among international readers—your next top pick is just a click away.</p>
+                            <p className={style.para}>Discover our newest additions featured on Amazon’s top-selling and hottest release with rising fame among international readers—your next pick is just a click away.</p>
                             <div className={style.counters}>
                                 {
                                     data.map(([value, text]) => (

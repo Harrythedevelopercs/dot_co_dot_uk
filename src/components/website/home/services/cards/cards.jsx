@@ -46,7 +46,7 @@ const data = [
   },
   {
     title: "Influencer <br class='hidden sm:block' /> Marketing",
-    para: "Boost book sales with strategic influencer marketing, connecting your book with top influencers, bloggers, and reviewers in your genre. Get the word around with influencers your Target Audience can connect and relate with.",
+    para: "Boost book sales with strategic influencer marketing, connecting your book withinfluencers, bloggers, and reviewers in your genre. Get the word around with influencers your Target Audience can connect and relate with.",
     cta: "Read More",
     ctaLink: "/influencer-marketing",
   },

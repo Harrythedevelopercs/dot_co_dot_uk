@@ -21,7 +21,7 @@ export default function Results() {
               </h2>
               <div className={styles.para}>
                 {[
-                  "Investing in SEO is vital for growing your online presence. Best Publishing Services will help you reach the top of your industry. Contact us to learn about our services and how to increase your online presence today!",
+                  "Investing in SEO is vital for growing your online presence. Best Publishing Services will help you reach theof your industry. Contact us to learn about our services and how to increase your online presence today!",
                   // "(Because what’s the point of all that traffic if it doesn’t result in sales?!)",
                   // "Want to see if we can get those ROI-driven results for *your* business? That free consultation has got your name written all over it."
                 ].map((e, i) => (
