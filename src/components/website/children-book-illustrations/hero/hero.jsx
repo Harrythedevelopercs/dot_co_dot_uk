@@ -35,7 +35,7 @@ export default function Hero() {
                     key={i}
                     className="flex font-comfortaa text-base font-medium leading-normal items-center gap-x-2 mb-4"
                   >
-                    <Image src={CheckIcon} alt="icon" className="shrink-0" />
+                    <Image src={CheckIcon} alt="icon" className="shrink-0 invert brightness-0" />
                     <span className="block">{e}</span>
                   </li>
                 ))}
