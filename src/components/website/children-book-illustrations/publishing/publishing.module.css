@@ -3,7 +3,7 @@
 }
 
 .img {
-  @apply lg:absolute lg:top-0 lg:left-14 lg:bottom-0 lg:w-[50%] lg:h-full lg:object-contain lg:object-center;
+  @apply lg:absolute lg:top-4 lg:left-14 lg:bottom-0 lg:w-[50%] lg:h-full lg:object-contain lg:object-center;
 }
 
 .grids {
@@ -11,11 +11,11 @@
 }
 
 .cols {
-  @apply md:basis-[45%] sm:pl-[30px] xl:pl-[40px];
+  @apply md:basis-[50%] sm:pl-[30px] xl:pl-[40px];
 }
 
 .title {
-  @apply text-[35px] sm:text-[40px] xl:text-[50px] 2xl:text-[60px] 3xl:text-[65px] leading-[1.1] font-mono mb-5 max-w-[600px];
+  @apply text-[35px] sm:text-[40px] xl:text-[40px] 2xl:text-[40px] leading-[1.1] font-mono mb-5 max-w-[600px];
 }
 
 .para {
