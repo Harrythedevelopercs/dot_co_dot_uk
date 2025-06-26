@@ -9,7 +9,7 @@ import styles from "./cards.module.css"
 
 const data = [
   {
-    title: "Best  <br class='hidden sm:block' /> Seller Badge",
+    title: "<br class='hidden sm:block' /> Seller Badge",
     para: "Achieve the coveted Best Seller Badge and boost your book’s credibility, sales, and visibility on the world’s largest book marketplace.",
     cta: "Read More",
     ctaLink: "/",
@@ -114,7 +114,7 @@ export default function Cards() {
           <div>
             <h3 className={styles.title}>Start Your Book Publishing Now!</h3>
             <p className={styles.para}>
-              Get in touch with our Best Publishing Services Experts and get the best plan
+              Get in touch with our Publishing Services Experts and get the best plan
               tailored as per your needs.
             </p>
             <CTA

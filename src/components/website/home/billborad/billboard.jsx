@@ -31,7 +31,7 @@ export default function Billboard() {
                         <div className={styles.card}>
                             <h2 className={styles.title}>Get Featured on Times Square, NYC!</h2>
                             <p className={styles.para}>Get Featured on Times Square, NYC!
-                                We believe every great story deserves recognition, and what better place than the world’s iconic destination—Times Square? Let your Amazon Bestseller shine brightly amidst the bustling crowds, leaving a lasting impression in one of the most famous locations on Earth.
+                                We believe every great story deserves recognition, and what better place than the world’s iconic destination—Times Square? Let your Bestseller shine brightly amidst the bustling crowds, leaving a lasting impression in one of the most famous locations on Earth.
                             </p>
                             <div className={styles.opinion}>
                                 {

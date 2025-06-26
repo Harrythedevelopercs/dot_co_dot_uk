@@ -16,8 +16,8 @@ export default function Publishing() {
                 <div className="container">
                     <div className={style.grids}>
                         <div className={style.cols}>
-                            <h2 className={style.title}>Best Publishing Services’s News/Article Publications</h2>
-                            <p className={style.para}>Articles and news publications remain one of the most reliable advertising methods, but finding the right team can be costly and challenging. With Best Publishing Services’s experienced columnists, journalists, and flexible pricing options, you can maximize your favorite publications and spread the word about your book effectively.</p>
+                            <h2 className={style.title}>Publishing Services’s News/Article Publications</h2>
+                            <p className={style.para}>Articles and news publications remain one of the most reliable advertising methods, but finding the right team can be costly and challenging. With Publishing Services’s experienced columnists, journalists, and flexible pricing options, you can maximize your favorite publications and spread the word about your book effectively.</p>
                             <ul className={style.lists}>
                                 {
                                     data.map((e) => (

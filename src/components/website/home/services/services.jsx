@@ -16,9 +16,9 @@ export default function Services() {
             <div className={styles.root}>
                 <div className="container">
                     <div className={styles.content}>
-                        <h2 className={styles.title}>Publishing Services That Serve Your Book Best </h2>
+                        <h2 className={styles.title}>Publishing Services That Serve Your Book </h2>
                         <MobileRender>
-                            <p className={styles.para}>From targeted promotions to global outreach, our expert Best Publishing Services are designed to boost visibility, drive sales, and connect your book with the right audience. </p>
+                            <p className={styles.para}>From targeted promotions to global outreach, our expert Publishing Services are designed to boost visibility, drive sales, and connect your book with the right audience. </p>
                             <Link className={styles.link} href="/">
                                 <span>Explore</span>
                                 <Image src={ChevronRight} alt="domain" />

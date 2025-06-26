@@ -23,8 +23,8 @@ export default function Sessions() {
                 <div className="container">
                     <div className={style._flex}>
                         <div className={style.left}>
-                            <h2 className={style.title}>Go Live with Best Publishing Services</h2>
-                            <p className={style.para}>Engage with your audience in real-time through Best Publishing Services’s live session service, fostering a collaborative promotion experience that enhances brand connection and reader engagement. </p>
+                            <h2 className={style.title}>Go Live with Publishing Services</h2>
+                            <p className={style.para}>Engage with your audience in real-time through Publishing Services’s live session service, fostering a collaborative promotion experience that enhances brand connection and reader engagement. </p>
                             <ul className={style.lists}>
                                 {
                                     data.map((e) => ( 

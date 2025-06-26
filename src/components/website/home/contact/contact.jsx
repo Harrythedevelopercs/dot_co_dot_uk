@@ -16,7 +16,7 @@ export default function contact() {
                 </MobileRender>
                 <div className="container">
                     <div className={style.content}>
-                        <h2 className={style.title}>Connect with Best Publishing Services Today to Learn More!</h2>
+                        <h2 className={style.title}>Connect with Publishing Services Today to Learn More!</h2>
                         <p className={style.para}>Think you have a story to tell to the world? Drop us a message so that one of our consultants can reach out to you today.</p>
                         <FrontEndForm label={false} theme="dark" />
                     </div>

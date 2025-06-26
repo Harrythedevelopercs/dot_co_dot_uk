@@ -7,12 +7,12 @@ import { CTAGroupLight } from "@/components"
 import styles from "./why-choose.module.css"
 
 export default function WhyChoose({
-    title = "Why Choose <br/> Best Publishing Services?",
-    desc = "At Best Publishing Services, we combine creativity with strategy to deliver impactful solutions for promoting your book.",
+    title = "Why Choose <br/> Publishing Services?",
+    desc = "At Publishing Services, we combine creativity with strategy to deliver impactful solutions for promoting your book.",
     data = [
         {
             title: "Diverse Marketing Strategies",
-            desc: "Our Best Publishing Services services reach diverse audiences through social media campaigns, email marketing, and influencer partnerships to ensure your book gets noticed."
+            desc: "Our Publishing Services services reach diverse audiences through social media campaigns, email marketing, and influencer partnerships to ensure your book gets noticed."
         },
         {
             title: "Supportive Community",
