@@ -39,7 +39,10 @@ const servicesOne = [
     text: "Book illustration Services ",
     href: "/children-book-illustrations",
   },
- 
+ {
+    text: "Book Publishing Services ",
+    href: "/book-publishing-services",
+  },
 ]
 
 const servicesTwo = [
