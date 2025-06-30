@@ -20,7 +20,7 @@ export default function Hero() {
                             <p className={style.para}>
                             As your dedicated technology partner, we're here to help you achieve your goals. Share your contact information, and let's initiate a strategic collaboration aimed at success.
                             </p>
-                            <a className={style.cta} href="tel:83300012222">302-665-3381</a>
+                            <a className={style.cta} href="tel:83300012222">447577316052</a>
                             <a className={style.cta} href="mailto:info@bookmarketing.com">info@bookmarketing.com</a>
                             </div>
                         </div>
