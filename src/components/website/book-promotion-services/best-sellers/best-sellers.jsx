@@ -3,12 +3,12 @@ import Image from "next/image"
 // Css
 import styles from "./best-sellers.module.css"
 // Media
-import Book1 from "media/book-launch-campaigns/bestSellers/1.png"
-import Book2 from "media/book-launch-campaigns/bestSellers/2.png"
-import Book3 from "media/book-launch-campaigns/bestSellers/3.png"
-import Book4 from "media/book-launch-campaigns/bestSellers/4.png"
-import Book5 from "media/book-launch-campaigns/bestSellers/5.png"
-import Book6 from "media/book-launch-campaigns/bestSellers/6.png"
+import Book1 from "media/book-launch-campaigns/bestSellers/1.jpg"
+import Book2 from "media/book-launch-campaigns/bestSellers/2.jpg"
+import Book3 from "media/book-launch-campaigns/bestSellers/3.jpg"
+import Book4 from "media/book-launch-campaigns/bestSellers/4.jpg"
+import Book5 from "media/book-launch-campaigns/bestSellers/5.jpg"
+import Book6 from "media/book-launch-campaigns/bestSellers/6.jpg"
 import Book7 from "media/book-launch-campaigns/bestSellers/7.png"
 export default function BestSellers() {
   return (
@@ -31,7 +31,7 @@ export default function BestSellers() {
                     <Image
                       src={e}
                       alt="domain"
-                      className={`${styles.img} group-hover:scale-105`}
+                      className={`${styles.img} group-hover:scale-105 lg:h-[410px] h-[350px]`}
                     />
                   </div>
                 ))}
