@@ -62,7 +62,7 @@ export default function Hero() {
                   </clipPath>
                 </defs>
               </svg> */}
-              <span>15+ Businesses, 35+ Happy clients.</span>
+              {/* <span>15+ Businesses, 35+ Happy clients.</span> */}
             </p>
             <div className={style.cta}>
               <CTAGroupDark />
