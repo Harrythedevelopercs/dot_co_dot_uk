@@ -18,7 +18,7 @@ export default function CTA({
                         `<img loading="lazy" alt="domain" class='transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
                         ``}
                     ${icon === "call-pink" ?
-                        `<img loading="lazy" alt="domain" class='transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
+                        `<img loading="lazy" alt="domain" class='invert brightness-0 transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
                         ``}
                     <span>${text}</span>
                     ${icon === "chevron-white" ?
