@@ -11,10 +11,10 @@ export default function Solutions() {
         <div className={styles.__grid}>
           <div className={styles.content}>
             <h2 className={styles.title}>
-              Book Launch Campaign is a Necessity
+              Book Editing: Your Key to Success Body
             </h2>
             <p className={styles.para}>
-              Book Editing: Your Key to Success Body: Don't launch without it. Best Publishing Services provides vital editing steps that refine your words, generate valuable, error-free content, and maximize your book's resonance with its intended audience.
+              Don't launch without it. Best Publishing Services provides vital editing steps that refine your words, generate valuable, error-free content, and maximize your book's resonance with its intended audience.
             </p>
             <div className={styles.cta}>
               <CTAGroupLight />
