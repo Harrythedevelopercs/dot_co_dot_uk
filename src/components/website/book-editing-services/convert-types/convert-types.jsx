@@ -12,8 +12,8 @@ export default function ConvertTypes() {
             <div className={style.root}>
                 <div className="container">
                     <div className={style.content}>
-                        <h2 className={style.title}>Build Your Unique Identity</h2>
-                            <p className={style.para}>Marketing requires skill and creativity. A strong social media strategy, influencer partnerships, and buzz around your book launch are key to maximizing reach and returns!</p>
+                        <h2 className={style.title}>Quality Book Editing for Authors</h2>
+                            <p className={style.para}>Crafting a compelling manuscript requires skill and precision. Expert editing, focused on clarity, consistency, and impact, is key to maximizing your story's resonance and achieving your publishing goals.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

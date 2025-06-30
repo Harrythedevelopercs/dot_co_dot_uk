@@ -17,13 +17,10 @@ export default function Statistics() {
             </div>
             <div className={styles.rightColumn}>
               <h2 className={styles.title}>
-                We help you take control of your online reputation with advanced
-                online reputation management services.
+                Get the Best in Book Editing. Get Best Publishing Services!
               </h2>
               <p className={styles.para}>
-                Your book’s design is crucial for attracting readers, whether on
-                a shelf or Amazon. A well-thought cover spark curiosity. Let us
-                help you perfect the presentation of your manuscript!
+                Transforming your manuscript is seamless with Best Publishing Services. We combine creative insight with technical precision, ensuring your words resonate. Our full-cycle editing ensures your book stands out, leaving a lasting impression.
               </p>
               <div className={styles.cta}>
                 <CTAGroupLight />

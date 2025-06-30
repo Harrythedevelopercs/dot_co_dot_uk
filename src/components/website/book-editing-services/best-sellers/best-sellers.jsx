@@ -18,9 +18,7 @@ export default function BestSellers() {
           <div className={styles.content}>
             <h2 className={styles.title}>Our Portfolio</h2>
             <p className={styles.para}>
-              We are a full-cycle book writing that combines creative thinking
-              with technical expertise to create creative writing that solve
-              real problems and drive business growth.
+              Strategic Book Editing for Impact. We offer full-cycle book editing that combines creative insight with technical precision. Our expert editors refine your manuscript to solve communication challenges and drive your message's growth and effectiveness.
             </p>
           </div>
           <div className={styles.__grid}>
@@ -40,8 +38,7 @@ export default function BestSellers() {
             <div className={styles.rightColumn}>
               <div className={styles.bg}>
                 <h3 className={styles.title2}>
-                  Hire The Best Book Launch Campaigns In USA To Showcase Your
-                  Masterpiece To The World
+                  Perfect Your Book: Professional Editing Here. Your masterpiece deserves the best.
                 </h3>
                 <div>
                   <Image src={Book7} alt="domain" className={styles.rightImg} />

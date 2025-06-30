@@ -14,9 +14,7 @@ export default function Solutions() {
               Book Launch Campaign is a Necessity
             </h2>
             <p className={styles.para}>
-              At Best Publishing Services, we combine four essential steps that
-              not only drive anticipation, but generate valuable content, and
-              maximize exposure to your target audience before and after launch.
+              Book Editing: Your Key to Success Body: Don't launch without it. Best Publishing Services provides vital editing steps that refine your words, generate valuable, error-free content, and maximize your book's resonance with its intended audience.
             </p>
             <div className={styles.cta}>
               <CTAGroupLight />

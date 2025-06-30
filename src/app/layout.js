@@ -4,6 +4,7 @@ import "./globals.css"
 import { fontManrope, fontMono, fontSans } from "./fonts"
 // Components
 import { Footer, Header, Popup } from "@/components"
+import Script from "next/script";
 // Meta Data
 export const metadata = {
   title: "Best Publishing Services",

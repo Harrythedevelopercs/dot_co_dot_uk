@@ -12,8 +12,8 @@ export default function Traditional() {
                 <div className="container">
                     <div className={styles.grids}>
                         <div className={styles.content}>
-                            <h2 className={styles.title}>Can't Wait Get Your Book Published?</h2>
-                            <p className={styles.para}>We are here for you. At “Best Publishing Service” we offer complete book editing and publishing solutions. Our services include:</p>
+                            <h2 className={styles.title}>Get the Best in Book Editing. Get Best Publishing Services!</h2>
+                            <p className={styles.para}>We are here for you. At “Best Publishing Service” we offer complete book editing and Transforming your manuscript is seamless with Best Publishing Services. We combine creative insight with technical precision, ensuring your words resonate. Our full-cycle editing ensures your book stands out, leaving a lasting impression.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

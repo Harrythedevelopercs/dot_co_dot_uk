@@ -18,23 +18,19 @@ export default function Publishing() {
           <div className={style.grids}>
             <div className={style.cols}>
               <h2 className={style.title}>
-                Beyond Illustrations — A Range of Book Illustration Services
+                Polish Your Pages: A Full Spectrum of Book Editing Services
               </h2>
               <p className={style.para}>
-                Whether you need cartoon illustration services for a story of
-                triumph, a fantastic adventure, or a personal journey, our team
-                of talented children's book illustrators ensures your story
-                resonates with young readers and makes an impact.
+                Whether your manuscript tells a tale of triumph, a fantastic adventure, or a deeply personal journey, our expert book editors ensure your story shines, truly resonating with readers and making a lasting impact.
               </p>
 
               <ul className="mt-8 grid lg:grid-cols-2 grid-cols-1 gap-5">
                 {[
-                  "Children's Book Illustration Services", 
-                  "Book editing", 
-                  "Book marketing", 
-                  "eBook script",
-                  "Book formatting", 
-                  "Book Cover",
+                  "Manuscript Refinement",
+                  "Copyediting & Line Editing",
+                  "Thorough Proofreading",
+                  "Developmental Guidance",
+                  "Professional Formatting",
                 ].map((e, i) => (
                   <li
                     key={i}
