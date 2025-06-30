@@ -1,6 +1,6 @@
 [
     {
-        "img": "/home/published-books/1.png",
+        "img": "/home/published-books/1.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
@@ -11,7 +11,7 @@
         "service": "Service 1"
     },
     {
-        "img": "/home/published-books/2.png",
+        "img": "/home/published-books/2.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
@@ -22,7 +22,7 @@
         "service": "Service 2"
     },
     {
-        "img": "/home/published-books/3.png",
+        "img": "/home/published-books/3.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
@@ -33,7 +33,7 @@
         "service": "Service 3"
     },
     {
-        "img": "/home/published-books/4.png",
+        "img": "/home/published-books/4.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
@@ -44,7 +44,7 @@
         "service": "Service 1"
     },
     {
-        "img": "/home/published-books/5.png",
+        "img": "/home/published-books/5.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
@@ -55,7 +55,7 @@
         "service": "Service 2"
     },
     {
-        "img": "/home/published-books/6.png",
+        "img": "/home/published-books/6.jpg",
         "name": "Book Name",
         "excerpt": "We are known for our writing skills that help you attract multiple readers",
         "category": [
