@@ -90,7 +90,7 @@ export default function Footer() {
                                         "USA, LA (HQ)",
                                         "R. Adriano C. de Oliveira 4A, 1600-312",
                                         "+1(555)255-5555",
-                                        "info@bestpublisherservics.com"
+                                        "info@bestpublishingservice.co.uk"
                                     ],
                                     // [
                                     //     City2,

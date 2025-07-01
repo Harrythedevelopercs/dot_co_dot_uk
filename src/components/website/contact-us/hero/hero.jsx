@@ -21,7 +21,7 @@ export default function Hero() {
                             As your dedicated technology partner, we're here to help you achieve your goals. Share your contact information, and let's initiate a strategic collaboration aimed at success.
                             </p>
                             <a className={style.cta} href="tel:83300012222">(833) 0001 - 2222</a>
-                            <a className={style.cta} href="mailto:info@bookmarketing.com">info@bookmarketing.com</a>
+                            <a className={style.cta} href="mailto:info@bestpublishingservice.co.uk">info@bestpublishingservice.co.uk</a>
                             </div>
                         </div>
                     </div>
