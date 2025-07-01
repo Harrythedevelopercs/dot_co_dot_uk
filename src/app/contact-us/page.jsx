@@ -10,7 +10,7 @@ export default function ContactUs() {
             <Reviews
                 bg="bg-transparent"
             />
-            <TrustedClients />
+            {/* <TrustedClients /> */}
         </>
     )
 }

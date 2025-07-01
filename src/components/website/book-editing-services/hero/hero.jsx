@@ -3,7 +3,7 @@ import Image from "next/image";
 // Css
 import style from "./hero.module.css";
 // Media
-import Bg from "media/book-launch-campaigns/hero-bg.png";
+import Bg from "media/book-launch-campaigns/slider_2.jpg";
 import CheckIcon from "media/children-book-illustrations/checkGreen.png";
 // Components
 import { CTAGroupDark } from "@/components";

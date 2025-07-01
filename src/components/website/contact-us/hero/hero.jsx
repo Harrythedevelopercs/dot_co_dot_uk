@@ -15,12 +15,12 @@ export default function Hero() {
                         <div className={style.grids}>
                             <div className={style.content}>
                             <h1 className={style.title}>
-                            Ready to Address Your Business Challenges?
+                            Ready to Address Your Book Challenges?
                             </h1>
                             <p className={style.para}>
-                            As your dedicated technology partner, we're here to help you achieve your goals. Share your contact information, and let's initiate a strategic collaboration aimed at success.
+                            As your dedicated book partner, we're here to help you achieve your literary goals. Share your contact information, and let's initiate a strategic collaboration aimed at success.
                             </p>
-                            <a className={style.cta} href="tel:83300012222">(833) 0001 - 2222</a>
+                            <a className={style.cta} href="tel:4475 7731 6052">4475 7731 6052</a>
                             <a className={style.cta} href="mailto:info@bestpublishingservice.co.uk">info@bestpublishingservice.co.uk</a>
                             </div>
                         </div>
