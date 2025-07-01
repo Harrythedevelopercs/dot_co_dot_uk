@@ -6,10 +6,10 @@ export default function Cards() {
         <div className={styles.root}>
             {
                 [
-                    ["1B+", "Customers"],
-                    ["7x", "Avg ROAS increase"],
-                    ["35", "Awards"],
-                    ["42%", "Avg CAC Deduction"],
+                    ["", "Enhanced Customer Reach Connecting businesses with a vast audience."],
+                    ["", "Significant Ad Performance Improvements: Helping clients achieve better returns on their advertising spend."],
+                    ["", "Recognized Industry Excellence: Honored with multiple industry awards."],
+                    ["", "Optimized Acquisition Costs: Assisting businesses in lowering their customer acquisition expenses."],
                 ].map(([title, desc], i) => (
                     <div key={i} className={styles.cards}>
                         <h3 className={styles.title}

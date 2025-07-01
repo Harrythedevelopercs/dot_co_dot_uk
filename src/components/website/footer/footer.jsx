@@ -88,22 +88,22 @@ export default function Footer() {
                                     [
                                         City1,
                                         "USA, LA (HQ)",
-                                        "R. Adriano C. de Oliveira 4A, 1600-312",
-                                        "+1(555)255-5555",
-                                        "info@bestpublishingservice.co.uk"
+                                        "Suite 100, Oxford Street, Mayfair, London",
+                                        "447577316052",
+                                        "info@bestpublisherservics.com"
                                     ],
                                     // [
                                     //     City2,
                                     //     "LONDON",
                                     //     "36 Wharf Road, N1 7GR",
-                                    //     "+1(555)255-5555",
+                                    //     "447577316052",
                                     //     "abc@bookmarketing.com"
                                     // ],
                                     // [
                                     //     City3,
                                     //     "USA, NYC",
                                     //     "36 Wharf Road, N1 7GR",
-                                    //     "+1(555)255-5555",
+                                    //     "447577316052",
                                     //     "abc@bookmarketing.com"
                                     // ],
                                 ].map(([img, title, address, num, mail]) => (

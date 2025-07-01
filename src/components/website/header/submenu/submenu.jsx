@@ -14,73 +14,79 @@ const servicesOne = [
   //   text: "Amazon Optimization",
   //   href: "/amazon-optimization",
   // },
- 
+
+  // {
+  //   text: "SMM Follower & Likes",
+  //   href: "/smm-follower-and-likes",
+  // },
+  // {
+  //   text: "Email Newsletter",
+  //   href: "/email-newsletter",
+  // },
+  // {
+  //   text: "Online Reputation Management",
+  //   href: "/online-reputation-management",
+  // },
+  // {
+  //   text: "News / Article Publishing",
+  // //   href: "/news-article-publishing",
+  // // },
+  // {
+  //   text: "Social Media Marketing",
+  //   href: "/social-media-marketing",
+  // },
   {
-    text: "SMM Follower & Likes",
-    href: "/smm-follower-and-likes",
+    text: "Book illustration Services ",
+    href: "/children-book-illustrations",
   },
-  {
-    text: "Email Newsletter",
-    href: "/email-newsletter",
-  },
-  {
-    text: "Online Reputation Management",
-    href: "/online-reputation-management",
-  },
-  {
-    text: "News / Article Publishing",
-    href: "/news-article-publishing",
-  },
-  {
-    text: "Social Media Marketing",
-    href: "/social-media-marketing",
+ {
+    text: "Book Publishing Services ",
+    href: "/book-publishing-services",
   },
 ]
 
 const servicesTwo = [
+  // {
+  //   text: "Paid Ad Campaigns",
+  //   href: "/paid-ad-campaigns",
+  // },
+  // {
+  //   text: "Influencer Marketing",
+  //   href: "/influencer-marketing",
+  // },
+  // {
+  //   text: "Search Engine Optimization",
+  //   href: "/search-engine-optimization",
+  // },
+  // {
+  //   text: "Google Knowledge Panel",
+  //   href: "/google-knowledge-panel",
+  // },
+  // {
+  //   text: "Print Placement (Magazine)",
+  //   href: "/print-placement",
+  // },
   {
-    text: "Paid Ad Campaigns",
-    href: "/paid-ad-campaigns",
-  },
-  {
-    text: "Influencer Marketing",
-    href: "/influencer-marketing",
-  },
-  {
-    text: "Search Engine Optimization",
-    href: "/search-engine-optimization",
-  },
-  {
-    text: "Google Knowledge Panel",
-    href: "/google-knowledge-panel",
-  },
-  {
-    text: "Print Placement (Magazine)",
-    href: "/print-placement",
+    text: "Book Marketing Services",
+    href: "/book-promotion-services",
   },
 ]
 const servicesThree = [
-  
-  {
-    text: "Video Book Trailer",
-    href: "/video-book-trailer",
-  },
-  {
-    text: "Book Launch Campaigns",
-    href: "/book-launch-campaigns",
-  },
-  {
-    text: "TV Interviews",
-    href: "/tv-interviews",
-  },
-   {
-    text: "Book Promotion Services",
-    href: "/book-promotion-services",
-  },
-  {
-    text: "Children Book Illustrations",
-    href: "/children-book-illustrations",
-  },
+
+  // {
+  //   text: "Video Book Trailer",
+  //   href: "/video-book-trailer",
+  // },
+  // {
+  //   text: "Book Launch Campaigns",
+  //   href: "/book-launch-campaigns",
+  // },
+  // {
+  //   text: "TV Interviews",
+  //   href: "/tv-interviews",
+  // },
+
+
   {
     text: "Book Editing Services",
     href: "/book-editing-services",

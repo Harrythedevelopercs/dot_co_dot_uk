@@ -7,7 +7,7 @@ export default function CTA({
     return (
         <div
             dangerouslySetInnerHTML={{
-                __html: `<a href='${link}' class='inline-flex items-center text-sm md:text-base leading-none w-max px-3 md:px-0 h-[40px] md:w-[200px] md:h-[50px] rounded-xl ${css} justify-center gap-2 uppercase transition-all duration-300'>
+                __html: `<a href='${link}'  ${link === "javascript:;" ? 'onclick="parent.LC_API.open_chat_window();return false;"' : ""} class='inline-flex items-center text-sm md:text-base leading-none w-max px-3 md:px-0 h-[40px] md:w-[200px] md:h-[50px] rounded-xl ${css} justify-center gap-2 uppercase transition-all duration-300'>
                     ${icon === "chat" ?
                         `<img loading="lazy" alt="domain" class='transition-all duration-300' src="/icons/chat.png" width="16" height="16" />` :
                         ``}
@@ -18,7 +18,7 @@ export default function CTA({
                         `<img loading="lazy" alt="domain" class='transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
                         ``}
                     ${icon === "call-pink" ?
-                        `<img loading="lazy" alt="domain" class='invert brightness-0 transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
+                        `<img loading="lazy" alt="domain" class='transition-all duration-300' src="/icons/call-pink.png" width="17" height="16" />` :
                         ``}
                     <span>${text}</span>
                     ${icon === "chevron-white" ?

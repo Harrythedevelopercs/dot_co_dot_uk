@@ -9,6 +9,7 @@ import Book3 from "media/book-launch-campaigns/bestSellers/3.jpg"
 import Book4 from "media/book-launch-campaigns/bestSellers/4.jpg"
 import Book5 from "media/book-launch-campaigns/bestSellers/5.jpg"
 import Book6 from "media/book-launch-campaigns/bestSellers/6.jpg"
+
 import Book7 from "media/book-launch-campaigns/bestSellers/7.png"
 export default function BestSellers() {
   return (
@@ -18,9 +19,7 @@ export default function BestSellers() {
           <div className={styles.content}>
             <h2 className={styles.title}>Our Portfolio</h2>
             <p className={styles.para}>
-              We are a full-cycle book writing that combines creative thinking
-              with technical expertise to create creative writing that solve
-              real problems and drive business growth.
+              Strategic Book Editing for Impact. We offer full-cycle book editing that combines creative insight with technical precision. Our expert editors refine your manuscript to solve communication challenges and drive your message's growth and effectiveness.
             </p>
           </div>
           <div className={styles.__grid}>
@@ -31,7 +30,7 @@ export default function BestSellers() {
                     <Image
                       src={e}
                       alt="domain"
-                      className={`${styles.img} group-hover:scale-105 lg:h-[410px] h-[350px]`}
+                      className={`${styles.img} group-hover:scale-105`}
                     />
                   </div>
                 ))}
@@ -40,8 +39,7 @@ export default function BestSellers() {
             <div className={styles.rightColumn}>
               <div className={styles.bg}>
                 <h3 className={styles.title2}>
-                  Hire The Best Book Launch Campaigns In USA To Showcase Your
-                  Masterpiece To The World
+                  Perfect Your Book: Professional Editing Here. Your masterpiece deserves the best.
                 </h3>
                 <div>
                   <Image src={Book7} alt="domain" className={styles.rightImg} />

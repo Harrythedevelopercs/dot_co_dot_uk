@@ -12,33 +12,33 @@ import Six from "media/online-reputation-management/icons/7.png"
 const data = [
   {
     img: One,
-    title: "Social Media Marketing",
-    para: "Harness social platforms to promote your book.",
+    title: "Developmental Editing",
+    para: "Hone your narrative structure, plot, and character development.",
   },
   {
     img: Two,
-    title: "Email Marketing Plans",
-    para: "Boost your listings and subscriptions today!",
+    title: "Copyediting & Line Editing",
+    para: "Refine your prose, grammar, syntax, and style for maximum clarity.",
   },
   {
     img: Three,
-    title: "Advertising Plans",
-    para: "Strategically market your book to attract attention.",
+    title: "Proofreading",
+    para: "Eliminate final errors in spelling, punctuation, and formatting.",
   },
   {
     img: Four,
-    title: "SEO Services",
-    para: "Our proven strategies ensure your book stands out.",
+    title: "Manuscript Critique",
+    para: "Receive detailed feedback to understand your book's strengths and areas for improvement.",
   },
   {
     img: Five,
-    title: "Influencer Marketing",
-    para: "Expand your reach by collaborating with influencers who resonate with your book's audience.",
+    title: "Formatting Services",
+    para: "Ensure your manuscript is professionally formatted for publication.",
   },
   {
     img: Six,
-    title: "Content Strategy",
-    para: "Develop a comprehensive content plan aligning with your launch goals.",
+    title: "Editorial Consulting",
+    para: "Develop a comprehensive editing plan aligning with your book's vision.",
   },
 ]
 

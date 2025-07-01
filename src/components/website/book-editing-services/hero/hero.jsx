@@ -17,19 +17,16 @@ export default function Hero() {
           <div className="container">
             <div>
               <h1 className={style.title}>
-                From Sketch to Storybook: Perfect Illustrations for Your
-                Children's Book
+                Your Story, Perfected: Professional Book Editing Services
               </h1>
               <p className={style.para}>
-                Not all masterpieces are located in the museum. Best Publishing
-                Services creates some with our expert children's book
-                illustration.
+                Best Publishing Services offers expert book editing services that go beyond basic proofreading. Our experienced editors help enhance your narrative, strengthen your voice, and eliminate any imperfections, making your book truly stand out. Discover the difference professional editing makes.
               </p>
               <ul className="mt-8">
                 {[
-                  "Flexible Revision Services",
-                  "24/7 Author Support Available",
-                  "Dependable Deadline Management",
+                  "Not all masterpieces are found in museums, you know?",
+                  "Ready to take your book to the next level?",
+                  "Are you letting errors hold your book back?",
                 ].map((e, i) => (
                   <li
                     key={i}

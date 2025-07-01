@@ -52,20 +52,20 @@ const data1 = [
 
 const data2 = [
   [
-    "“I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Services.”",
-    "Erica Thames",
-    "Fiction Writer",
+    "“My sister and I were looking for a young team to help us through our modern day book because we were too specific about the terms we were using in our book. We requested Mark to help us appointing a customized team and he really helped us through the journey it was unbelievable how they were able to come-up with such fresh ideas and really manifested our ideas. Truly perfect.”",
+    "Sussane Hayes,",
+    "Mystery Author",
   ],
-  // [
-  //   "“I got my idea transformed into a book! Thanks to the Best Publishing Services.”",
-  //   "Danny Morgan",
-  //   "Research and Science Fiction Writer",
-  // ],
-  // [
-  //   "“I am impressed with what a remarkable job the Best Publishing Services did!”",
-  //   "James P",
-  //   "Memoir Author",
-  // ],
+  [
+    "I was so nervous about publishing my book because I had no idea it was good enough to publish but then I spoke to Mark and he helped me into structuring my book I was ready to publish my book but the confidence I gained while working with the team really helped me with what it was missing the whole time.",
+    "Don J Dean,",
+    "Mystery Author"
+  ],
+  [
+    "“I am glad that BPS helped me with the book illustrations otherwise it would have been a total mess.”",
+    "Sara James",
+    "Memoir Author",
+  ],
   // [
   //   "“I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Services.”",
   //   "Erica Thames",
@@ -197,11 +197,7 @@ export default function Testimonials() {
                     <span className={styles.clientName}>{name}</span>
                     <span className={styles.position}>{position}</span>
                   </div>
-                  <div className={styles.__rightGrid}>
-                    <div className={styles.cta}>
-                      <CTAGroupReviews />
-                    </div>
-                  </div>
+                  
                 </div>
               </div>
             </div>

@@ -34,58 +34,58 @@ const servicesMenu = [
     text: "Children Book Illustrations",
     href: "/children-book-illustrations",
   },
-  {
-    text: "Book Launch Campaigns",
-    href: "/book-launch-campaigns",
-  },
-  {
-    text: "TV Interviews",
-    href: "/tv-interviews",
-  },
-  {
-    text: "Email Newsletter",
-    href: "/email-newsletter",
-  },
-  {
-    text: "Social Media Marketing",
-    href: "/social-media-marketing",
-  },
-  {
-    text: "Online Reputation Management",
-    href: "/online-reputation-management",
-  },
-  {
-    text: "SMM Follower & Likes",
-    href: "/smm-follower-and-likes",
-  },
-  {
-    text: "Influencer Marketing",
-    href: "/influencer-marketing",
-  },
-  {
-    text: "Video Book Trailer",
-    href: "/video-book-trailer",
-  },
-  {
-    text: "Search Engine Optimization",
-    href: "/search-engine-optimization",
-  },
-  {
-    text: "Print Placement (Magazine)",
-    href: "/print-placement",
-  },
-  {
-    text: "News / Article Publishing",
-    href: "/news-article-publishing",
-  },
-  {
-    text: "Paid Ad Campaigns",
-    href: "/paid-ad-campaigns",
-  },
-  {
-    text: "Google Knowledge Panel",
-    href: "/google-knowledge-panel",
-  },
+  // {
+  //   text: "Book Launch Campaigns",
+  //   href: "/book-launch-campaigns",
+  // },
+  // {
+  //   text: "TV Interviews",
+  //   href: "/tv-interviews",
+  // },
+  // {
+  //   text: "Email Newsletter",
+  //   href: "/email-newsletter",
+  // },
+  // {
+  //   text: "Social Media Marketing",
+  //   href: "/social-media-marketing",
+  // },
+  // {
+  //   text: "Online Reputation Management",
+  //   href: "/online-reputation-management",
+  // },
+  // {
+  //   text: "SMM Follower & Likes",
+  //   href: "/smm-follower-and-likes",
+  // },
+  // {
+  //   text: "Influencer Marketing",
+  //   href: "/influencer-marketing",
+  // },
+  // {
+  //   text: "Video Book Trailer",
+  //   href: "/video-book-trailer",
+  // },
+  // {
+  //   text: "Search Engine Optimization",
+  //   href: "/search-engine-optimization",
+  // },
+  // {
+  //   text: "Print Placement (Magazine)",
+  //   href: "/print-placement",
+  // },
+  // {
+  //   text: "News / Article Publishing",
+  //   href: "/news-article-publishing",
+  // },
+  // {
+  //   text: "Paid Ad Campaigns",
+  //   href: "/paid-ad-campaigns",
+  // },
+  // {
+  //   text: "Google Knowledge Panel",
+  //   href: "/google-knowledge-panel",
+  // },
 ];
 
 export default function MobileNav() {
