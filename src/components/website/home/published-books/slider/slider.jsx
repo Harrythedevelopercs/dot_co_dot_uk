@@ -73,7 +73,7 @@ export default function Slider() {
     >
       {data.map(({ book, title },i) => (
         <div className={style.slides} key={i}>
-          <Image src={book} alt="domain" />
+          <Image src={book} alt="domain" className="!h-[350px]" />
           {/* <h3 className={style.title}>{title}</h3> */}
         </div>
       ))}
