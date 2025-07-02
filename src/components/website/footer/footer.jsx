@@ -90,7 +90,7 @@ export default function Footer() {
                                         "UK, LONDON (HQ)",
                                         "Suite 100, Oxford Street, Mayfair, London",
                                         "447577316052",
-                                        "info@bestpublisherservics.com"
+                                        "info@bestpublisherservics.co.uk"
                                     ],
                                     // [
                                     //     City2,
