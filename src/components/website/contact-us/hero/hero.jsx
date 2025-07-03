@@ -21,7 +21,7 @@ export default function Hero() {
                             As your dedicated book partner, we're here to help you achieve your literary goals. Share your contact information, and let's initiate a strategic collaboration aimed at success.
                             </p>
                             <a className={style.cta} href="tel:4475 7731 6052">4475 7731 6052</a>
-                            <a className={style.cta} href="mailto:info@bestpublishingservice.co.uk">info@bestpublishingservice.co.uk</a>
+                            <a className={style.cta} href="mailto:info@bestpublishingservice.com">info@bestpublishingservice.com</a>
                             </div>
                         </div>
                     </div>
