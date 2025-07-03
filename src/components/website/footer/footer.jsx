@@ -87,23 +87,23 @@ export default function Footer() {
                                 [
                                     [
                                         City1,
-                                        "UK, LONDON (HQ)",
-                                        "Suite 100, Oxford Street, Mayfair, London",
-                                        "447577316052",
+                                        "USA, DALAWARE (HQ)",
+                                        "200 Continental drive, Newark, delaware 19713",
+                                        "+1 302 665 3381",
                                         "info@bestpublisherservics.co.uk"
                                     ],
                                     // [
                                     //     City2,
                                     //     "LONDON",
                                     //     "36 Wharf Road, N1 7GR",
-                                    //     "447577316052",
+                                    //     "3026653381",
                                     //     "abc@bookmarketing.com"
                                     // ],
                                     // [
                                     //     City3,
                                     //     "USA, NYC",
                                     //     "36 Wharf Road, N1 7GR",
-                                    //     "447577316052",
+                                    //     "3026653381",
                                     //     "abc@bookmarketing.com"
                                     // ],
                                 ].map(([img, title, address, num, mail]) => (
