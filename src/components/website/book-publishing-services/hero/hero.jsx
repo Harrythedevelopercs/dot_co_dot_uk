@@ -25,7 +25,6 @@ export default function Hero() {
               <ul className="mt-8">
                 {[
                   "Flexible Revision Services",
-                  "24/7 Author Support Available",
                   "Dependable Deadline Management",
                 ].map((e, i) => (
                   <li

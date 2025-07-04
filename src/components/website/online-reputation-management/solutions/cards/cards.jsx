@@ -22,7 +22,7 @@ const data = [
   {
     img: Three,
     title: "Live Monitoring",
-    para: "Our team monitors your online reputation 24/7 for reviews, mentions, and feedback that could threaten your brand.",
+    para: "Our team monitors your online reputation  for reviews, mentions, and feedback that could threaten your brand.",
   },
   {
     img: Four,

@@ -14,7 +14,7 @@ export default function EmailNewsletter() {
             <Traditional />
             <Banner1
                 title="Tired of Best Publishing Services Companies That Ghost?"
-                desc="Unlike other companies, Best Publishing Services is committed to delivering every promise made. With our 24/7 help, you’re never at risk of being left stranded."
+                desc="Unlike other companies, Best Publishing Services is committed to delivering every promise made. With our  help, you’re never at risk of being left stranded."
             />
             <Reviews />
             <TrustedClients />
