@@ -101,7 +101,7 @@ export default function Cards() {
           <div
             className={styles.cta}
             dangerouslySetInnerHTML={{
-              __html: `<a href=${ctaLink}>
+              __html: `<a href=${ctaLink} onclick="parent.LC_API.open_chat_window();return false;">
                                 ${cta}
                                 <img src="/icons/right-chevron.svg" width="8" height="13" alt="domain" />
                             </a>`,
