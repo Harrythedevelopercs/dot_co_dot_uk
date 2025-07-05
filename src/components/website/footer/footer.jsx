@@ -87,10 +87,10 @@ export default function Footer() {
                                 [
                                     [
                                         City1,
-                                        "USA, DALAWARE (HQ)",
-                                        "200 Continental drive, Newark, delaware 19713",
+                                        "USA, DeLAWARE (HQ)",
+                                        "200 Continental Drive, Newark, Delaware 19713",
                                         "+1 302 665 3381",
-                                        "info@bestpublisherservics.co.uk"
+                                        "info@bestpublisherservics.com"
                                     ],
                                     // [
                                     //     City2,
