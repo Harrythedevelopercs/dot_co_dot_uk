@@ -14,7 +14,7 @@ export default function PaidAdCampaigns() {
         <Traditional/>
         <Banner1 
         title="Need Help Fixing Your Paid Campaigns? Free Reputation Consultation"
-        desc="Most of our clients were too… until they started working with us. Because at our Paid Ad Campaigns company, we only make promises that we can keep. Book a free consultation to find out if our Paid Ad agency can get you the results that you’re after."
+        desc="Most of our clients were too… until they started working with us. Because at our Paid Ad Campaigns company, we only make promises that we can keep. Book A Consultation to find out if our Paid Ad agency can get you the results that you’re after."
         />
         <Reviews/>
         <TrustedClients/>

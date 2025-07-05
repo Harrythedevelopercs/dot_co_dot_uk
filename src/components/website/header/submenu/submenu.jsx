@@ -36,7 +36,7 @@ const servicesOne = [
   //   href: "/social-media-marketing",
   // },
   {
-    text: "Book illustration Services ",
+    text: "Book Illustration Services ",
     href: "/children-book-illustrations",
   },
  {
@@ -174,7 +174,7 @@ export default function Submenu() {
       </div>
       <div className={style.bottomBar}>
         <Link href="/" className="flex items-center gap-x-3 justify-center">
-          Discover Our Latest Best Publishing Services Innovations!{" "}
+          Discover Our Latest Best Publishing Service, LLC Innovations!{" "}
           <ArrowBigRight className="size-7" />
         </Link>
       </div>

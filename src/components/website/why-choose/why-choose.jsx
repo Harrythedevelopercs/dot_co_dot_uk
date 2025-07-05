@@ -7,8 +7,8 @@ import { CTAGroupLight } from "@/components"
 import styles from "./why-choose.module.css"
 
 export default function WhyChoose({
-    title = "Why Choose <br/>Best Publishing Services, LLC?",
-    desc = "At Publishing Services, we combine creativity with strategy to deliver impactful solutions for promoting your book.",
+    title = "Why Choose <br/>Best Publishing Service, LLC?",
+    desc = "At Best Publishing Service, LLC, we combine creativity with strategy to deliver impactful solutions for promoting your book.",
     data = [
         {
             title: "Diverse Marketing Strategies",

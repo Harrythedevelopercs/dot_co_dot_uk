@@ -14,7 +14,7 @@ export default function ConvertTypes() {
           <div className={style.content}>
             <h2 className={style.title}>Premium SMM Services We Offer </h2>
             <p className={style.para}>
-              Best Publishing Services has everything your content requires to reach your
+              Best Publishing Service, LLC has everything your content requires to reach your
               audience. Here’s what we offer:
             </p>
           </div>

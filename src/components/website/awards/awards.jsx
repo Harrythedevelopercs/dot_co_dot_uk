@@ -13,10 +13,10 @@ export default function Awards() {
                 <MobileRender>
                     <div className={style.content}>
                         <h2 className={style.title}>
-                        Awards That Spotlight <br className="lg:block hidden" /> Our Best Publishing Services <br className="lg:block hidden" />  Expertise  
+                        Awards That Spotlight <br className="lg:block hidden" /> Our Best Publishing Service, LLC <br className="lg:block hidden" />  Expertise  
                         </h2>
                         <p className={style.para}>
-                            At Best Publishing Services, our accomplishments speak of why we’re the best in service!
+                            At Best Publishing Service, LLC, our accomplishments speak of why we’re the best in service!
                         </p>
                     </div>
                 </MobileRender>

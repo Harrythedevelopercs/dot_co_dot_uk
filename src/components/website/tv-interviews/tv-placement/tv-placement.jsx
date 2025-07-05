@@ -20,7 +20,7 @@ export default function TvPlacement() {
                         </div>
                         <div>
                             <div>
-                                <h2 className={styles.title}>Get Started with Best Publishing Services</h2>
+                                <h2 className={styles.title}>Get Started with Best Publishing Service, LLC</h2>
                                 <p className={styles.para}>Want to boost your public presence with TV interviews? Contact us today to learn how our services can enhance your media exposure!</p>
                                 <div className={styles.cta}>
                                     <CTAGroupLight />

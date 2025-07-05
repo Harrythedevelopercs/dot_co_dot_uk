@@ -12,33 +12,33 @@ import Six from "media/online-reputation-management/icons/7.png"
 const data = [
   {
     img: One,
-    title: "Social Media Marketing",
-    para: "Harness social platforms to promote your book.",
+    title: "Ebook Conversion",
+    para: "Convert your book into digital formats for seamless distribution on major e-book platforms.",
   },
   {
     img: Two,
-    title: "Email Marketing Plans",
-    para: "Boost your listings and subscriptions today!",
+    title: "Custom Illustration Services",
+    para: "Bring your characters and stories to life with captivating artwork tailored for young readers.",
   },
   {
     img: Three,
-    title: "Advertising Plans",
-    para: "Strategically market your book to attract attention.",
+    title: "Manuscript Preparation",
+    para: "Refine your text for clarity, flow, and age-appropriateness, preparing it for publication.",
   },
   {
     img: Four,
-    title: "SEO Services",
-    para: "Our proven strategies ensure your book stands out.",
+    title: "Book Design & Layout",
+    para: "Create an engaging and visually appealing interior and cover design for your children's book.",
   },
   {
     img: Five,
-    title: "Influencer Marketing",
-    para: "Expand your reach by collaborating with influencers who resonate with your book's audience.",
+    title: "Editorial & Proofreading",
+    para: "Ensure your manuscript is polished and error-free, meeting publishing standards.",
   },
   {
     img: Six,
-    title: "Content Strategy",
-    para: "Develop a comprehensive content plan aligning with your launch goals.",
+    title: "Print-Ready File Creation",
+    para: "Prepare high-quality files optimized for various printing methods, from paperback to hardcover.",
   },
 ]
 

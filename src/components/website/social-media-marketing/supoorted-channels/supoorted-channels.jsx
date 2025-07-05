@@ -19,7 +19,7 @@ export default function SupoortedChannels() {
                         <div>
                             <div className={style.rightCol}>
                                 <h2 className={style.title}>Channels Supported!</h2>
-                                <p className={style.para}>More than half of consumers* turn to social media to learn about new brands, making social media management an essential component of At Best Publishing Services, we view social media management as the backbone of our approach, with data that supports our strategy.</p>
+                                <p className={style.para}>More than half of consumers* turn to social media to learn about new brands, making social media management an essential component of At Best Publishing Service, LLC, we view social media management as the backbone of our approach, with data that supports our strategy.</p>
                                 <div className={style.cta}>
                                     <CTAGroupLight />
                                 </div>

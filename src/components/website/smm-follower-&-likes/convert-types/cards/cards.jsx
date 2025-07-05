@@ -19,7 +19,7 @@ const data = [
   {
     img: Two,
     title: "Your Idea, Our Creation",
-    para: "Best Publishing Services helps bring your ideas to life. Stuck on execution? We've got you covered!",
+    para: "Best Publishing Service, LLC helps bring your ideas to life. Stuck on execution? We've got you covered!",
   },
   {
     img: Three,
@@ -29,7 +29,7 @@ const data = [
   {
     img: Four,
     title: "Monitoring Analytics",
-    para: "Best Publishing Services is data-driven. We analyze traffic engagement and move accordingly.",
+    para: "Best Publishing Service, LLC is data-driven. We analyze traffic engagement and move accordingly.",
   },
   {
     img: Five,

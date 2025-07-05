@@ -18,9 +18,7 @@ export default function BestSellers() {
           <div className={styles.content}>
             <h2 className={styles.title}>Our Portfolio</h2>
             <p className={styles.para}>
-              We are a full-cycle book writing that combines creative thinking
-              with technical expertise to create creative writing that solve
-              real problems and drive business growth.
+              We offer full-cycle children's book services, blending imaginative storytelling with enchanting illustration expertise to craft captivating narratives that inspire young readers and bring your vision to life.
             </p>
           </div>
           <div className={styles.__grid}>

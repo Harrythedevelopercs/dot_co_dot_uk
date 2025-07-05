@@ -14,7 +14,7 @@ export default function ConvertTypes() {
           <div className={style.content}>
             <h2 className={style.title}>Our SEO Services</h2>
             <p className={style.para}>
-              At Best Publishing Services, we provide comprehensive SEO solutions:
+              At Best Publishing Service, LLC, we provide comprehensive SEO solutions:
             </p>
           </div>
           <Cards />

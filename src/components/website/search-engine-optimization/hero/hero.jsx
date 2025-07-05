@@ -19,7 +19,7 @@ export default function Hero() {
                 SEO Services for New Businesses and Authors
               </h1>
               <p className={style.para}>
-                Best Publishing Services offers SEO services to fit your needs, boosting
+                Best Publishing Service, LLC offers SEO services to fit your needs, boosting
                 your online presence and making it perfect for emerging business
                 authors alike!
               </p>

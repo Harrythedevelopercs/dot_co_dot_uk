@@ -17,10 +17,10 @@ export default function Statistics() {
             </div>
             <div className={styles.rightColumn}>
               <h2 className={styles.title}>
-                Get the Best in Book Editing. Get Best Publishing Services!
+                Get the Best in Book Editing. Get Best Publishing Service, LLC!
               </h2>
               <p className={styles.para}>
-                Transforming your manuscript is seamless with Best Publishing Services. We combine creative insight with technical precision, ensuring your words resonate. Our full-cycle editing ensures your book stands out, leaving a lasting impression.
+                Transforming your manuscript is seamless with Best Publishing Service, LLC. We combine creative insight with technical precision, ensuring your words resonate. Our full-cycle editing ensures your book stands out, leaving a lasting impression.
               </p>
               <div className={styles.cta}>
                 <CTAGroupLight />

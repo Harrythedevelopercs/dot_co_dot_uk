@@ -13,7 +13,7 @@ export default function ConvertTypes() {
                 <div className="container">
                     <div className={style.content}>
                         <h2 className={style.title}>Google Knowledge Panel Services!</h2>
-                            <p className={style.para}>Navigating the online world can be tough, but your Video Book Trailer doesn’t have to be. At Best Publishing Services, we analyze online content, social media, and search results to assess your current reputation and create an effective trailer strategy.</p>
+                            <p className={style.para}>Navigating the online world can be tough, but your Video Book Trailer doesn’t have to be. At Best Publishing Service, LLC, we analyze online content, social media, and search results to assess your current reputation and create an effective trailer strategy.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

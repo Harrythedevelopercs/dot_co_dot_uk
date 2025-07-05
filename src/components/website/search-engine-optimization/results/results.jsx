@@ -17,11 +17,11 @@ export default function Results() {
                 Partner with a SEO agency that’s laser focused on your ROI
               </span>
               <h2 className={styles.title}>
-                Get Started with Best Publishing Services’s Leading SEO Services
+                Get Started with Best Publishing Service, LLC’s Leading SEO Services
               </h2>
               <div className={styles.para}>
                 {[
-                  "Investing in SEO is vital for growing your online presence. Best Publishing Services will help you reach theof your industry. Contact us to learn about our services and how to increase your online presence today!",
+                  "Investing in SEO is vital for growing your online presence. Best Publishing Service, LLC will help you reach theof your industry. Contact us to learn about our services and how to increase your online presence today!",
                   // "(Because what’s the point of all that traffic if it doesn’t result in sales?!)",
                   // "Want to see if we can get those ROI-driven results for *your* business? That free consultation has got your name written all over it."
                 ].map((e, i) => (

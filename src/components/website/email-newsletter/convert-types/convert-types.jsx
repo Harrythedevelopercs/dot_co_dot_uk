@@ -13,7 +13,7 @@ export default function ConvertTypes() {
                 <div className="container">
                     <div className={style.content}>
                         <h2 className={style.title}>Why Choose Us for Your Newsletter Needs?</h2>
-                        <p className={style.para}>Best Publishing Services email builder gives you all the tools to expertly start building and customizing your HTML email template from zero to the finished product!</p>
+                        <p className={style.para}>Best Publishing Service, LLC email builder gives you all the tools to expertly start building and customizing your HTML email template from zero to the finished product!</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

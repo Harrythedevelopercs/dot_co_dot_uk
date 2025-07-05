@@ -14,7 +14,7 @@ export default function NumbersSpeak() {
           <div className={styles.content}>
             <h2 className={styles.title}>We Let Our Numbers Do the Talking!</h2>
             <p className={styles.para}>
-              At Best Publishing Services, we guarantee results with both paid and organic
+              At Best Publishing Service, LLC, we guarantee results with both paid and organic
               marketing. If our 3-month performance doesn’t deliver ROI, clients
               can receive free services until they see positive results – that's
               how confident we are!

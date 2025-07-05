@@ -14,7 +14,7 @@ export default function ConvertTypes() {
                     <div className={style.content}>
                         <h2 className={style.title}>Let Amazon Marketing Skyrocket Your Sales</h2>
                         <div>
-                            <p className={style.para}>With eCommerce websites leading traditional markets, especially for international buyers, it’s time to leverage Amazon Marketing. Best Publishing Services provides simple services, letting you choose the one that best suits your needs and see instant results</p>
+                            <p className={style.para}>With eCommerce websites leading traditional markets, especially for international buyers, it’s time to leverage Amazon Marketing. Best Publishing Service, LLC provides simple services, letting you choose the one that best suits your needs and see instant results</p>
                         </div>
                     </div>
                     <Cards />

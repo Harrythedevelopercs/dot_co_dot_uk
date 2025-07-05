@@ -12,7 +12,7 @@ export default function OurCustomers({ bg = "bg-[#F2F5F7]" }) {
                 <div className="container">
                     <div className={styles.content}>
                         <h2 className={styles.title}>Listen to What Our Customers Say!</h2>
-                        <p className={styles.para}>"I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Services."</p>
+                        <p className={styles.para}>"I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Service, LLC."</p>
                     </div>
                     <Cards />
                     {/* <div className={styles.rating}>

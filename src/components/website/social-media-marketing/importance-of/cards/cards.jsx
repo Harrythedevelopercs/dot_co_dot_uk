@@ -12,7 +12,7 @@ const data = [
     {
         img: One,
         title: "Brand Awareness",
-        para: "SMM at Best Publishing Services effectively elevates your brand visibility."
+        para: "SMM at Best Publishing Service, LLC effectively elevates your brand visibility."
     },
     {
         img: Two,

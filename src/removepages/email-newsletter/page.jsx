@@ -13,8 +13,8 @@ export default function EmailNewsletter() {
             <Campaign />
             <Traditional />
             <Banner1
-                title="Tired of Best Publishing Services Companies That Ghost?"
-                desc="Unlike other companies, Best Publishing Services is committed to delivering every promise made. With our  help, you’re never at risk of being left stranded."
+                title="Tired of Best Publishing Service, LLC Companies That Ghost?"
+                desc="Unlike other companies, Best Publishing Service, LLC is committed to delivering every promise made. With our  help, you’re never at risk of being left stranded."
             />
             <Reviews />
             <TrustedClients />

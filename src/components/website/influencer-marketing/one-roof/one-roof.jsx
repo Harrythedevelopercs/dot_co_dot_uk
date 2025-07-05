@@ -15,7 +15,7 @@ export default function OneRoof() {
                     <div className={styles.__grid}>
                         <div className={styles.column}>
                             <h2 className={styles.title}>Bring your brand to its target audience with the command of influencers to connect with your audience.</h2>
-                            <p className={styles.para}>At Best Publishing Services, we specialize in creating engaging, customized influencer marketing campaigns that align with your unique goals.</p>
+                            <p className={styles.para}>At Best Publishing Service, LLC, we specialize in creating engaging, customized influencer marketing campaigns that align with your unique goals.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

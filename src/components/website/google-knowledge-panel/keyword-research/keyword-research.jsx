@@ -10,7 +10,7 @@ export default function KeywordResearch() {
             <div className={styles.root}>
                 <div className="container">
                     <div className={styles.content}>
-                        <h2 className={styles.title}>Best Publishing Services provides specialized Google Knowledge Services to enhance your digital presence and authority.</h2>
+                        <h2 className={styles.title}>Best Publishing Service, LLC provides specialized Google Knowledge Services to enhance your digital presence and authority.</h2>
                     </div>
                     <Image src={Keywords} alt="domain"/>
                 </div>

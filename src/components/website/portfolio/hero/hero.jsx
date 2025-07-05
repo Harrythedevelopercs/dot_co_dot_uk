@@ -15,7 +15,7 @@ export default function Hero() {
                 <div className="container">
                     <div>
                         <h1 className={style.title}>
-                        Best Publishing Services’s Services That Elevate Branding
+                        Best Publishing Service, LLC’s Services That Elevate Branding
                         </h1>
                         <p className={style.para}>
                         Our services are designed to not only rebrand your business but to transform the way it is perceived globally.

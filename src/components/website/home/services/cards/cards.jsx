@@ -22,7 +22,7 @@ const data = [
   },
   {
     title: "Building an  <br class='hidden sm:block' /> Online Presence",
-    para: "Establish a powerful online presence with strategic Best Publishing Services, helping you connect with readers, increase engagement, and boost book sales. Start now!",
+    para: "Establish a powerful online presence with strategic Best Publishing Service, LLC, helping you connect with readers, increase engagement, and boost book sales. Start now!",
     cta: "Read More",
     ctaLink: "javascript:;",
   },

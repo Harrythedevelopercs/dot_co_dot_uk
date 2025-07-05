@@ -19,7 +19,7 @@ export default function Hero() {
                             Bringing Readers to Your Story
                             </h1>
                             <p className={style.para}>
-                            Bringing authors and readers together through Best Publishing Services, editing, publishing, and marketing services. 
+                            Bringing authors and readers together through Best Publishing Service, LLC, editing, publishing, and marketing services. 
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

@@ -19,7 +19,7 @@ export default function Hero() {
                             Paid Ad Campaign Services for New Businesses and Authors
                             </h1>
                             <p className={style.para}>
-                            Best Publishing Services offers Paid Ad Campaign services to help writers and new businesses reach a broader audience with effective strategies that deliver results.
+                            Best Publishing Service, LLC offers Paid Ad Campaign services to help writers and new businesses reach a broader audience with effective strategies that deliver results.
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

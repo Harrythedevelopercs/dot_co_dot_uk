@@ -13,7 +13,7 @@ export default function Possibilities() {
         <div className="container">
           <div>
             <h2 className={styles.title}>
-              Take Branding to the Next Step With Best Publishing Services’s Print
+              Take Branding to the Next Step With Best Publishing Service, LLC’s Print
               Placement
             </h2>
           </div>
@@ -37,7 +37,7 @@ export default function Possibilities() {
                   <Image src={img} alt="domain" className={styles.img} />
                 </div>
                 <div className={styles.content}>
-                  <h3 className={styles.title}>Best Publishing Services</h3>
+                  <h3 className={styles.title}>Best Publishing Service, LLC</h3>
                   <p className={styles.desc}>{desc}</p>
                 </div>
               </div>

@@ -1,7 +1,7 @@
 // Next
 import Image from "next/image"
 // Media
-import Img from "media/book-launch-campaigns/statistics.png"
+import Img from "media/book-launch-campaigns/statistics_2.jpg"
 // Components
 import { CTAGroupLight } from "@/components"
 // Css
@@ -17,13 +17,12 @@ export default function Statistics() {
             </div>
             <div className={styles.rightColumn}>
               <h2 className={styles.title}>
-                We help you take control of your online reputation with advanced
-                online reputation management services.
+                We Help You Bring Your Vision to Life
+                With our expert children's book illustration and publishing services.
+
               </h2>
               <p className={styles.para}>
-                Your book’s design is crucial for attracting readers, whether on
-                a shelf or Amazon. A well-thought cover spark curiosity. Let us
-                help you perfect the presentation of your manuscript!
+                Your book's design is crucial for captivating young readers, whether in print or digital format. A well-thought-out cover and engaging illustrations spark curiosity and wonder. Let us help you perfect the presentation of your manuscript and illustrations, creating a magical experience for children!
               </p>
               <div className={styles.cta}>
                 <CTAGroupLight />

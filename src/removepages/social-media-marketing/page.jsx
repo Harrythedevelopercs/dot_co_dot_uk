@@ -22,12 +22,12 @@ export default function Page() {
             <CaseStudy />
             <Services />
             <WhyChoose
-                desc="At Best Publishing Services, we combine creativity with strategy to deliver impactful solutions for promoting your book."
+                desc="At Best Publishing Service, LLC, we combine creativity with strategy to deliver impactful solutions for promoting your book."
                 data={[
                     {
                         icon: Icon1,
                         title: "Diverse Marketing Strategies",
-                        desc: "Our Best Publishing Services services reach diverse audiences through social media campaigns, email marketing, and influencer partnerships to ensure your book gets noticed."
+                        desc: "Our Best Publishing Service, LLC services reach diverse audiences through social media campaigns, email marketing, and influencer partnerships to ensure your book gets noticed."
                     },
                     {
                         icon: Icon2,

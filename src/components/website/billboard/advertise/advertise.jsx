@@ -22,13 +22,13 @@ export default function Advertise() {
         <div className="container">
           <div className={styles.content}>
             <h2 className={styles.title}>
-            Take Your Brand to New Heights with Best Publishing Services!
+            Take Your Brand to New Heights with Best Publishing Service, LLC!
             </h2>
             <p className={styles.para}>
-            Take Your Brand to New Heights with Best Publishing Services!
+            Take Your Brand to New Heights with Best Publishing Service, LLC!
             </p>
             <p className={styles.para}>
-            Times Square, one of the world’s most iconic locations and a tourist attraction, sees approximately 330,000 people passing through daily. With such a vast audience, it’s the perfect place to communicate your message through its famous billboards and digital screens. As a leading media buyer, Best Publishing Services can help connect you with New York audiences through effective Times Square advertising campaigns, showcasing your brand in one of the world’s most photographed landmarks.
+            Times Square, one of the world’s most iconic locations and a tourist attraction, sees approximately 330,000 people passing through daily. With such a vast audience, it’s the perfect place to communicate your message through its famous billboards and digital screens. As a leading media buyer, Best Publishing Service, LLC can help connect you with New York audiences through effective Times Square advertising campaigns, showcasing your brand in one of the world’s most photographed landmarks.
             </p>
           </div>
           <div className={styles.__grid}>

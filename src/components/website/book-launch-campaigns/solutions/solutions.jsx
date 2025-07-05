@@ -10,7 +10,7 @@ export default function Solutions() {
                     <div className={styles.__grid}>
                         <div className={styles.content}>
                             <h2 className={styles.title}>Book Launch Campaign is a Necessity</h2>
-                            <p className={styles.para}>At Best Publishing Services, we combine four essential steps that not only drive anticipation, but generate valuable content, and maximize exposure to your target audience before and after launch.</p>
+                            <p className={styles.para}>At Best Publishing Service, LLC, we combine four essential steps that not only drive anticipation, but generate valuable content, and maximize exposure to your target audience before and after launch.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

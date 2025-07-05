@@ -19,7 +19,7 @@ export default function Publishing() {
               <h2 className={style.title}>Efficient Article Writing Process</h2>
               <p className={style.para}>
                 Publish all news articles directly from your CMS or directly
-                into the Best Publishing Services creator. Free to read or blocked by any
+                into the Best Publishing Service, LLC creator. Free to read or blocked by any
                 type of subscription or individual sales.
               </p>
               <ul className={style.lists}>

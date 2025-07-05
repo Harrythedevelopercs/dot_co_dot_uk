@@ -12,7 +12,7 @@ const data = [
   ],
   [
     "Values",
-    "we believe in allowing every writer to give meaning to their imagination, sharing it with the world in the best words possible. Every story roots from yet another story. We at Best Publishing Services value the essence of every imagination.",
+    "We believe in allowing every writer to give meaning to their imagination, sharing it with the world in the best words possible. Every story roots from yet another story. We at Best Publishing Service, LLC value the essence of every imagination.",
   ],
   [
     "Our Story",

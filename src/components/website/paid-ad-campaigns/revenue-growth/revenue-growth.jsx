@@ -14,7 +14,7 @@ export default function RevenueGrowth() {
                 <div className="container">
                     <div className={styles.__grid}>
                         <div className={styles.column}>
-                            <h2 className={styles.title}>Why choose Best Publishing Services for Paid Advertising Campaign Services?</h2>
+                            <h2 className={styles.title}>Why choose Best Publishing Service, LLC for Paid Advertising Campaign Services?</h2>
                             <p className={styles.para}>Our services boost brand recognition, attract new customers, and drive sales with impactful ads. We optimize strategies for higher ROI and measure campaign success to ensure ongoing improvement.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />

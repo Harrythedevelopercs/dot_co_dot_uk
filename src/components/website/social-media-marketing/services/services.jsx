@@ -12,10 +12,10 @@ export default function Services() {
             <div className={style.root}>
                 <div className={style.content}>
                     <h2 className={style.title}>
-                    Best Publishing Services’s Services at a Glance
+                    Best Publishing Service, LLC’s Services at a Glance
                     </h2>
                     <p className={style.para}>
-                    Writing a book is just the beginning. At Best Publishing Services, we help you choose the right strategies to maximize its potential within your budget:
+                    Writing a book is just the beginning. At Best Publishing Service, LLC, we help you choose the right strategies to maximize its potential within your budget:
                     </p>
                     <div className={style.cta}>
                         <CTAGroupLight />

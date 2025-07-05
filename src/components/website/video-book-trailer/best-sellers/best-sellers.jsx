@@ -17,7 +17,7 @@ export default function BestSellers() {
                 <div className="container">
                     <div className={styles.content}>
                         <h2 className={styles.title}>Our Best Sellers</h2>
-                        <p className={styles.para}>At Best Publishing Services, we combine creativity and innovation to ensure your book stands out. Contact us to bring your vision to life with our book trailer services!</p>
+                        <p className={styles.para}>At Best Publishing Service, LLC, we combine creativity and innovation to ensure your book stands out. Contact us to bring your vision to life with our book trailer services!</p>
                     </div>
                     <div className={styles.cardGrid}>
                         {

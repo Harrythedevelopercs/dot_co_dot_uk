@@ -27,7 +27,7 @@ export default function PrintPlacement() {
       <Traditional />
       <Banner1
         title="Unsure of How Print Placement Can Boost Your Book’s Value?"
-        desc="Send a message for a consulttion with Best Publishing Services’s Print Placement team to learn more about our service and how it can increase your book’s revenue. "
+        desc="Send a message for a consulttion with Best Publishing Service, LLC’s Print Placement team to learn more about our service and how it can increase your book’s revenue. "
       />
       <Reviews />
       <TrustedClients />

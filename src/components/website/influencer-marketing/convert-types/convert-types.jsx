@@ -13,7 +13,7 @@ export default function ConvertTypes() {
                 <div className="container">
                     <div className={style.content}>
                         <h2 className={style.title}>Influencer Marketing Services!</h2>
-                            <p className={style.para}>Managing your Online Reputation doesn’t have to be difficult. At Best Publishing Services, we analyze your online content, social media, and search results to understand and improve your current reputation.</p>
+                            <p className={style.para}>Managing your Online Reputation doesn’t have to be difficult. At Best Publishing Service, LLC, we analyze your online content, social media, and search results to understand and improve your current reputation.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

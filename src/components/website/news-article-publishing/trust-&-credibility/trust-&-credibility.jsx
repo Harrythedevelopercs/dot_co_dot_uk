@@ -11,7 +11,7 @@ export default function TrustAndCredibility() {
             <div className={styles.root}>
                 <div className="container">
                     <div className={styles.content}>
-                        <h2 className={styles.title}>At Best Publishing Services, we deliver impactful, SEO-focused article writing tailored to your business needs.</h2>
+                        <h2 className={styles.title}>At Best Publishing Service, LLC, we deliver impactful, SEO-focused article writing tailored to your business needs.</h2>
                         <p className={styles.para}>Our team of experts comprises of Best Published Article Writers, providing plagiarism-free content that is guaranteed to reach your audience through all algorithms.</p>
                     </div>
                     <Image src={Mockups} alt="domain" className={styles.img} />

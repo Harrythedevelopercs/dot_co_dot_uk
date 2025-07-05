@@ -10,7 +10,7 @@ export default function TrendingPosts() {
             <div className={style.root}>
                 <div className="container">
                     <p className={style.subTitle}>Top Trending</p>
-                    <h2 className={style.title}>Discover the Latest Trends in Cross Podcast.</h2>
+                    <h2 className={style.title}>Discover the Latest Trends in Best Publishing Service, LLC.</h2>
                     <Cards />
                     <div className={style.cta}>
                         <CTAGroupDark />

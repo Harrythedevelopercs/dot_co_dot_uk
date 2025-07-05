@@ -20,7 +20,7 @@ export default function Hero() {
                 Your Story, Perfected: Professional Book Editing Services
               </h1>
               <p className={style.para}>
-                Best Publishing Services offers expert book editing services that go beyond basic proofreading. Our experienced editors help enhance your narrative, strengthen your voice, and eliminate any imperfections, making your book truly stand out. Discover the difference professional editing makes.
+                Best Publishing Service, LLC offers expert book editing services that go beyond basic proofreading. Our experienced editors help enhance your narrative, strengthen your voice, and eliminate any imperfections, making your book truly stand out. Discover the difference professional editing makes.
               </p>
               <ul className="mt-8">
                 {[

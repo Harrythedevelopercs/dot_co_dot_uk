@@ -17,7 +17,7 @@ export default function Publishing() {
           <div className={style.grids}>
             <div className={style.cols}>
               <h2 className={style.title}>
-                Supercharge Your Book's Success with Expert Marketing from Best Publishing Services
+                Supercharge Your Book's Success with Expert Marketing from Best Publishing Service, LLC
               </h2>
               <p className={style.para}>
                 Our comprehensive book marketing services help you create a strong author brand, boost sales, and connect with ideal readers through effective book promotion services.

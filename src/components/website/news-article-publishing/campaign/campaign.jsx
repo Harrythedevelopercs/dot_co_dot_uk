@@ -15,7 +15,7 @@ export default function Campaign() {
                         <Image src={Statistics} alt="domain" className={styles.img} />
                         <div>
                             <h2 className={styles.title}>Explore our comprehensive article-writing solutions and grow your online presence.</h2>
-                            <p className={styles.para}>Looking for verified email campaign services? With a 98% positive success rate, Best Publishing Services is your ideal choice. Contact us today for top-rated article-writing services that make your content attention-grabbing and unforgettable!</p>
+                            <p className={styles.para}>Looking for verified email campaign services? With a 98% positive success rate, Best Publishing Service, LLC is your ideal choice. Contact us today for top-rated article-writing services that make your content attention-grabbing and unforgettable!</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

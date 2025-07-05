@@ -45,9 +45,9 @@ export default function Publishing() {
         <div className="container">
           <div className={style.grids2}>
             <div className={style.cols2}>
-              <h2 className={style.title}>How Best Publishing Services can help.</h2>
+              <h2 className={style.title}>How Best Publishing Service, LLC can help.</h2>
               <p className={style.para2}>
-              At Best Publishing Services, we specialize in helping companies advertise in Times Square, reaching America’s most desirable and hard-to-reach audiences. With our expertise, we guide you through the process, from choosing the best locations and formats to crafting catchy messages for Times Square's dynamic crowds. Using our strategic insights and media relationships, we ensure your brand stands out and resonates with the millions of viewers who pass through daily.</p>
+              At Best Publishing Service, LLC, we specialize in helping companies advertise in Times Square, reaching America’s most desirable and hard-to-reach audiences. With our expertise, we guide you through the process, from choosing the best locations and formats to crafting catchy messages for Times Square's dynamic crowds. Using our strategic insights and media relationships, we ensure your brand stands out and resonates with the millions of viewers who pass through daily.</p>
               <div className={style.cta}>
                 <CTAGroupLight />
               </div>

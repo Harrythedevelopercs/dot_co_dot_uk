@@ -19,7 +19,7 @@ export default function Hero() {
                             Social Media Marketing: Get Enhanced Following and Likes 
                             </h1>
                             <p className={style.para}>
-                            Best Publishing Services enables users to enhance their social media following and likes via unmatched SMM services across several platforms. 
+                            Best Publishing Service, LLC enables users to enhance their social media following and likes via unmatched SMM services across several platforms. 
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

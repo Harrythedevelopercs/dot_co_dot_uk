@@ -14,7 +14,7 @@ export default function CrossPodcast() {
         <div className="container">
           <div className={styles.content}>
             <h2 className={styles.title}>
-              We are "Cross Podcast" a passionate team dedicated to empowering
+              We are "Best Publishing Service, LLC" a passionate team dedicated to empowering
               podcasters and enthusiasts worldwide.
             </h2>
           </div>
@@ -24,7 +24,7 @@ export default function CrossPodcast() {
                 <Image src={One} alt="one" />
                 <h3 className={styles.title}>Take Action on Your Podcasting Needs</h3>
                 <p className={styles.para}>
-                Do not lose the chance to engage with your followers through podcasts. Contact us today to learn how Best Publishing Services’s Podcast services can support your journey.
+                Do not lose the chance to engage with your followers through podcasts. Contact us today to learn how Best Publishing Service, LLC’s Podcast services can support your journey.
                 </p>
                 <CTA
                   text="Start Your Podcast"

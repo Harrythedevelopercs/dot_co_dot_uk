@@ -16,10 +16,10 @@ export default function Hero() {
                     <div className="container">
                         <div>
                             <h1 className={style.title}>
-                            From Pages to Screens: Best Publishing Services’s TV Interviews Bring You to Your Reader’s Screens
+                            From Pages to Screens: Best Publishing Service, LLC’s TV Interviews Bring You to Your Reader’s Screens
                             </h1>
                             <p className={style.para}>
-                            TV interviews are powerful for brand promotion. With Best Publishing Services’s TV Interview Service, we help your book gain recognition and connect with a wider audience. 
+                            TV interviews are powerful for brand promotion. With Best Publishing Service, LLC’s TV Interview Service, we help your book gain recognition and connect with a wider audience. 
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

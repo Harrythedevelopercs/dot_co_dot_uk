@@ -15,7 +15,7 @@ export default function OurMarketing() {
         <section>
             <div className={style.root1}>
                 <div className="container">
-                    <h2 className={style.title}>Kickstart Your Success with Best Publishing Services’s Active Social Media Services!</h2>
+                    <h2 className={style.title}>Kickstart Your Success with Best Publishing Service, LLC’s Active Social Media Services!</h2>
                 </div>
             </div>
             <div className={style.root2}>

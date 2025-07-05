@@ -30,7 +30,7 @@ export default function Hero() {
               Podcast Services for New Businesses and Authors
               </h1>
               <p className={style.para}>
-              Best Publishing Services’s specialist Podcast services boost your brand’s visibility. Our team helps you create engaging content that resonates with your target audience.
+              Best Publishing Service, LLC’s specialist Podcast services boost your brand’s visibility. Our team helps you create engaging content that resonates with your target audience.
               </p>
               <div className={style.cta}>
                 <CTAGroupDark />

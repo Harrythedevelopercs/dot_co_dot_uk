@@ -90,7 +90,7 @@ export default function Footer() {
                                         "USA, DELAWARE (HQ)",
                                         "200 Continental Drive, Newark, Delaware 19713",
                                         "+1 302 665 3381",
-                                        "info@bestpublisherservics.com"
+                                        "info@bestpublisherservic.com"
                                     ],
                                     // [
                                     //     City2,

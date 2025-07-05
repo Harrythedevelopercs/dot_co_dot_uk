@@ -4,7 +4,7 @@ import styles from "./about-marketing.module.css"
 import { CTAGroupLight } from "@/components"
 import Cards from "./cards/cards"
 
-const data = ["Tech Integration Solutions", "Client Focused Approach", "Disruptive Innovation", "Digital Transformation Partnerships"]
+const data = ["Tech Integration Solutions", "Client Focused Approach", "Disruptive Innovation", "Digital Transformation"]
 
 export default function AboutMarketing() {
     return (
@@ -13,8 +13,8 @@ export default function AboutMarketing() {
                 <div className="container">
                     <div className={styles.grids}>
                         <div>
-                            <h2 className={styles.title}>About Best Publishing Services!</h2>
-                            <p className={styles.para}>Best Publishing Services is a platform that provides anything and everything an author needs. From a thought to becoming a book, we at Best Publishing Services enable authors to create a flawlessly written book. </p>
+                            <h2 className={styles.title}>About Best Publishing Service, LLC!</h2>
+                            <p className={styles.para}>Best Publishing Service, LLC is a platform that provides anything and everything an author needs. From a thought to becoming a book, we at Best Publishing Service, LLC enable authors to create a flawlessly written book. </p>
                             <ul className={styles.lists}>
                                 {
                                     data.map((e, i) => (

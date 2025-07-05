@@ -13,7 +13,7 @@ export default function ConvertTypes() {
         <div className="container">
           <div className={style.content}>
             <h2 className={style.title}>
-            Live Session - What Best Publishing Services Guarantees!
+            Live Session - What Best Publishing Service, LLC Guarantees!
             </h2>
             <p className={style.para}>
             Don’t miss this opportunity to grow as an author. Join our Live Sessions and take the next step toward achieving your writing goals!

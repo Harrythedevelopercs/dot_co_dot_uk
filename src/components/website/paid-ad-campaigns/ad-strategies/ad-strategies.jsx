@@ -14,8 +14,8 @@ export default function AdStrategies() {
                 <div className="container">
                     <div className={styles.__grid}>
                         <div className={styles.column}>
-                            <h2 className={styles.title}>Get started with Paid Advertising Campaign Services for Best Publishing Services</h2>
-                            <p className={styles.para}>Get in touch with us to find out how Best Publishing Services’s Paid Ad Campaign services will help you in achieving your objectives.</p>
+                            <h2 className={styles.title}>Get started with Paid Advertising Campaign Services for Best Publishing Service, LLC</h2>
+                            <p className={styles.para}>Get in touch with us to find out how Best Publishing Service, LLC’s Paid Ad Campaign services will help you in achieving your objectives.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

@@ -10,37 +10,36 @@ export default function AboutUs() {
     return (
         <>
             <Hero />
-            <Awards />
             <AboutMarketing />
             <BelieveIn />
             <Traditional />
-            <WhyChoose title="Why Choose Cross Podcast?"
-                desc="At Cross Podcast, we are dedicated to bringing your podcast vision to life. With tailored solutions, innovative tools, and a committed team, we combine creativity and expertise to ensure your podcast reaches the listeners it deserves."
+            <WhyChoose title="Why Choose Best Publishing Service, LLC."
+                desc="At Best Publishing Service, LLC, we are dedicated to bringing your Audiobook to life. With tailored solutions, innovative tools, and a committed team, we combine creativity and expertise to ensure your Audiobook reaches the listeners it deserves."
                 data={[
                     {
                         icon: Icon1,
-                        title: "Expert Podcast Guidance",
-                        desc: "Our team brings years of podcasting expertise to help shape, refine, and elevate your content, ensuring a professional and engaging experience."
+                        title: "Expert Audiobook Guidance",
+                        desc: "Our team brings years of Audiobook expertise to help shape, refine, and elevate your content, ensuring a professional and engaging experience."
                     },
                     {
                         icon: Icon2,
                         title: "Customized Marketing Solutions",
-                        desc: "We develop targeted marketing strategies to reach your ideal listeners, amplifying your podcast’s reach and growing your audience."
+                        desc: "We develop targeted marketing strategies to reach your ideal listeners, amplifying your Audiobook’s reach and growing your audience."
                     },
                     {
                         icon: Icon3,
                         title: "Advanced Recording Tools",
-                        desc: "Access cutting-edge technology and high-quality recording tools designed to make your podcast sound top-notch and keep your listeners hooked."
+                        desc: "Access cutting-edge technology and high-quality recording tools designed to make your Audiobook sound top-notch and keep your listeners hooked."
                     },
                     {
                         icon: Icon4,
                         title: "Engaged Listener Community",
-                        desc: "Join a vibrant community of podcast enthusiasts who support, inspire, and connect with you as your podcast journey unPages."
+                        desc: "Join a vibrant community of Audiobook enthusiasts who support, inspire, and connect with you as your Audiobook journey."
                     }
                 ]}
             />
             <Reviews />
-            <TrustedClients />
+            {/* <TrustedClients /> */}
         </>
     )
 };

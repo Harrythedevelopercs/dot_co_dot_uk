@@ -14,7 +14,7 @@ export default function Solutions() {
               Book Launch Campaign is a Necessity
             </h2>
             <p className={styles.para}>
-              At Best Publishing Services, we combine four essential steps that
+              At Best Publishing Service, LLC, we combine four essential steps that
               not only drive anticipation, but generate valuable content, and
               maximize exposure to your target audience before and after launch.
             </p>

@@ -12,8 +12,9 @@ export default function Traditional() {
                 <div className="container">
                     <div className={styles.grids}>
                         <div className={styles.content}>
-                            <h2 className={styles.title}>Get the Best in Book Editing. Get Best Publishing Services!</h2>
-                            <p className={styles.para}>We are here for you. At “Best Publishing Service” we offer complete book editing and Transforming your manuscript is seamless with Best Publishing Services. We combine creative insight with technical precision, ensuring your words resonate. Our full-cycle editing ensures your book stands out, leaving a lasting impression.</p>
+                            <h2 className={styles.title}>Perfecting Your Book Story & Art
+                                Get the Best in Children's Book Illustration & Publishing!</h2>
+                            <p className={styles.para}>We are here for you. At Best Publishing Service, LLC, we offer complete services to bring your children's book to life. Transforming your manuscript and illustrations into a captivating book is seamless with us. We combine creative insight with technical precision, ensuring your story and art resonate with young readers. Our full-cycle approach ensures your children's book stands out, leaving a lasting impression.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />
                             </div>

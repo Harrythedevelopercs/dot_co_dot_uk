@@ -24,8 +24,8 @@ export default function Interviews() {
                 <div className="container">
                     <div className={style._flex}>
                         <div className={style.left}>
-                            <h2 className={style.title}>Best Publishing Services’s Most-Watched TV Interviews</h2>
-                            <p className={style.para}>At Best Publishing Services, we have the perfect guide to ensure your book’s interview remains in the headlines long after it is aired. Make the most of our years of experience and industry partnership with renowned TV Channels and anchors, and access the right visibility your book deserves. </p>
+                            <h2 className={style.title}>Best Publishing Service, LLC’s Most-Watched TV Interviews</h2>
+                            <p className={style.para}>At Best Publishing Service, LLC, we have the perfect guide to ensure your book’s interview remains in the headlines long after it is aired. Make the most of our years of experience and industry partnership with renowned TV Channels and anchors, and access the right visibility your book deserves. </p>
 
                             <div className={style.cta}>
                                 <CTAGroupDark />

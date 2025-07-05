@@ -13,8 +13,8 @@ export default function VideoBookTrailer() {
             <BestSellers />
             <Traditional />
             <Banner1
-                title="At Best Publishing Services, We Offer Cost-Savvy Yet Impactful Book Trailers"
-                desc="Unlike other Best Publishing Services services, we offer Video Book Trailers at an affordable price without compromising on visual and animation quality. "
+                title="At Best Publishing Service, LLC, We Offer Cost-Savvy Yet Impactful Book Trailers"
+                desc="Unlike other Best Publishing Service, LLC services, we offer Video Book Trailers at an affordable price without compromising on visual and animation quality. "
             />
             <Reviews />
             <TrustedClients />

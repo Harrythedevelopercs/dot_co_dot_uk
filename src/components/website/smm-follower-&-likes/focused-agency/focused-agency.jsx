@@ -18,10 +18,10 @@ export default function FocusedAgency() {
             <div className={styles.content}>
               <h2 className={styles.title}>
                 Experience a whole new dynamics of social media marketing at
-                Best Publishing Services, where ideas meet innovations.
+                Best Publishing Service, LLC, where ideas meet innovations.
               </h2>
               <p className={styles.para}>
-                Get Your Brand Noticed Today with Best Publishing Services!
+                Get Your Brand Noticed Today with Best Publishing Service, LLC!
               </p>
               <div className={styles.cta}>
                 <CTAGroupLight />

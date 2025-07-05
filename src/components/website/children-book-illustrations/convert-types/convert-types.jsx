@@ -13,7 +13,7 @@ export default function ConvertTypes() {
                 <div className="container">
                     <div className={style.content}>
                         <h2 className={style.title}>Build Your Unique Identity</h2>
-                            <p className={style.para}>Marketing requires skill and creativity. A strong social media strategy, influencer partnerships, and buzz around your book launch are key to maximizing reach and returns!</p>
+                            <p className={style.para}>Crafting a children's book requires a distinctive vision and expert execution. Our services ensure your story and illustrations come to life with professional quality and creative flair.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

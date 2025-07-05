@@ -7,7 +7,7 @@ const data = [
     "Every writer has a unique style and genre in which they excel. We believe in refining their stories to eliminate errors, perfect the flow, and keep readers hooked on every word.",
   ],
   [
-    "Why Choose Best Publishing Services, LLC",
+    "Why Choose Best Publishing Service, LLC",
     "Our team of exceptionally talented individuals has a knack for blending creativity and expertise to create an impactful story.",
   ],
   [
@@ -16,7 +16,7 @@ const data = [
   ],
   [
     "Innovative Measures",
-    "Whether it's just an idea or a collection of thoughts on paper, our experts know how to streamline every aspect of Best Publishing Services, editing, publishing, and promotion. ",
+    "Whether it's just an idea or a collection of thoughts on paper, our experts know how to streamline every aspect of Best Publishing Service, LLC, editing, publishing, and promotion. ",
   ],
   [
     "Supportive Community",
@@ -32,7 +32,7 @@ const data = [
   ],
   [
     "Proven Track Record",
-    "Our experience speaks for itself. We’ve successfully supported numerous authors on their publishing journeys, helping them achieve their goals with effective and reliable Best Publishing Services strategies.",
+    "Our experience speaks for itself. We’ve successfully supported numerous authors on their publishing journeys, helping them achieve their goals with effective and reliable Best Publishing Service, LLC strategies.",
   ],
 ]
 

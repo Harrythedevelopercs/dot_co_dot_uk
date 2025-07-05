@@ -7,7 +7,7 @@ export default function IncreasePresence() {
             <div className={styles.root}>
                 <div className="container">
                     <div className={styles.content}>
-                        <h2 className={styles.title}>What Sets Best Publishing Services’s Google Knowledge Services Apart?</h2>
+                        <h2 className={styles.title}>What Sets Best Publishing Service, LLC’s Google Knowledge Services Apart?</h2>
                     </div>
                     <Cards/>
                 </div>

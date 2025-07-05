@@ -19,7 +19,7 @@ export default function Hero() {
               Meet-and-Greet from the Convenience of Your Home
               </h1>
               <p className={style.para}>
-              Nothing makes readers happier than connecting with their favorite authors. Best Publishing Services’s Live Session bridges the gap, designed for new authors expanding their reader community! 
+              Nothing makes readers happier than connecting with their favorite authors. Best Publishing Service, LLC’s Live Session bridges the gap, designed for new authors expanding their reader community! 
               </p>
               <div className={style.cta}>
                 <CTAGroupDark />

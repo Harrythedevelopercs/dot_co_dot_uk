@@ -19,7 +19,7 @@ export default function Hero() {
                             Print Placement Services for New Businesses and Authors
                             </h1>
                             <p className={style.para}>
-                            At Best Publishing Services, we maximize your brand and book's visibility with premium Print Placement Services, ensuring your presence in relevant printed media for maximum exposure.
+                            At Best Publishing Service, LLC, we maximize your brand and book's visibility with premium Print Placement Services, ensuring your presence in relevant printed media for maximum exposure.
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

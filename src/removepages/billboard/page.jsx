@@ -27,7 +27,7 @@ export default function Billboard() {
       <Traditional />
       <Banner1
         title="In Search Of A Way To Showcase Your Work At Timesquare? "
-        desc="Get a free consultation with Best Publishing Services today to learn how you can have your brand advertised in Timesquare without burning a hole in your pocket."
+        desc="Get a free consultation with Best Publishing Service, LLC today to learn how you can have your brand advertised in Timesquare without burning a hole in your pocket."
       />
       <Reviews />
       <TrustedClients />

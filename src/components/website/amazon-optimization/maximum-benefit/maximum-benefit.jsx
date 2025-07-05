@@ -17,7 +17,7 @@ export default function MaximumBenefit() {
                             <Image src={DeliveryModel} alt="domain" className={styles.img} />
                         </div>
                         <div className={styles.content}>
-                            <h2 className={styles.title}>From Clicks to Conversions: Make the Most of Amazon Marketing with Best Publishing Services Today</h2>
+                            <h2 className={styles.title}>From Clicks to Conversions: Make the Most of Amazon Marketing with Best Publishing Service, LLC Today</h2>
                             <p className={styles.para}>Optimize the art of Amazon Marketing by signing up our services.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />

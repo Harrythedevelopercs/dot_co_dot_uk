@@ -17,7 +17,7 @@ export default function Capabilities() {
             </div>
             <div className={styles.content}>
               <h2 className={styles.title}>
-                Getting Started with Best Publishing Services’s Print Placement Services
+                Getting Started with Best Publishing Service, LLC’s Print Placement Services
               </h2>
               <p className={styles.para}>
                 To explore how our Print Placement services can enhance your

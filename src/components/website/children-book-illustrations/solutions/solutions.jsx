@@ -11,12 +11,10 @@ export default function Solutions() {
         <div className={styles.__grid}>
           <div className={styles.content}>
             <h2 className={styles.title}>
-              Book Launch Campaign is a Necessity
+              Launching Your Children's Book with Impact
             </h2>
             <p className={styles.para}>
-              At Best Publishing Services, we combine four essential steps that
-              not only drive anticipation, but generate valuable content, and
-              maximize exposure to your target audience before and after launch.
+              A successful children's book launch is crucial. Our comprehensive approach integrates key strategies designed to build excitement, create engaging promotional materials, and ensure your beautifully illustrated story reaches its ideal audience both pre- and post-publication.
             </p>
             <div className={styles.cta}>
               <CTAGroupLight />

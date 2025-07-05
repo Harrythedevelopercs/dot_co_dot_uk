@@ -24,7 +24,7 @@ export default function Podcasts() {
       <Services />
       <TrendingPodcasts />
       <WhyChoose
-        title="Why Choose Best Publishing Services’s Podcast Services?"
+        title="Why Choose Best Publishing Service, LLC’s Podcast Services?"
         desc="By hiring us, you can: "
         data={[
           {

@@ -10,7 +10,7 @@ export default function Solutions() {
                 <div className="container">
                     <div className="grid lg:grid-cols-2 grid-cols-1 items-center lg:gap-x-5 gap-y-10">
                         <div className={styles.content}>
-                            <h2 className={styles.title}>What Best Publishing Services’s ORM Services Outline</h2>
+                            <h2 className={styles.title}>What Best Publishing Service, LLC’s ORM Services Outline</h2>
                             <p className={styles.para}>Our Online Reputation Management Service covers all aspects of your digital presence, including monitoring, content creation, support, and strategy. We adapt to trends to ensure your online reputation remains strong and positive.</p>
                             <div className={styles.cta}>
                                 <CTAGroupLight />

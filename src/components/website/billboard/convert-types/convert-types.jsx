@@ -13,7 +13,7 @@ export default function ConvertTypes() {
                 <div className="container">
                     <div className={style.content}>
                         <h2 className={style.title}>Our Proven Process</h2>
-                            <p className={style.para}>At Best Publishing Services, our billboard marketing services enhance visibility, expand reach, and position your brand as a leader. If you want to generate buzz and connect with a larger audience, we are the perfect marketing partner.</p>
+                            <p className={style.para}>At Best Publishing Service, LLC, our billboard marketing services enhance visibility, expand reach, and position your brand as a leader. If you want to generate buzz and connect with a larger audience, we are the perfect marketing partner.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

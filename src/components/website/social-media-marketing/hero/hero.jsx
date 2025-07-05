@@ -20,7 +20,7 @@ export default function Hero() {
                             Social Media Marketing Services 
                             </h1>
                             <p className={style.para}>
-                            In today’s digital world, a strong social media strategy is key to engaging your audience and boosting book revenue. At Best Publishing Services, we build your online presence through expert Social Media Management (SMM). 
+                            In today’s digital world, a strong social media strategy is key to engaging your audience and boosting book revenue. At Best Publishing Service, LLC, we build your online presence through expert Social Media Management (SMM). 
                             </p>
                             <div className={style.cta}>
                                 <CTAGroupDark />

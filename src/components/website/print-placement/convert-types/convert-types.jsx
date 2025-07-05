@@ -12,8 +12,8 @@ export default function ConvertTypes() {
             <div className={style.root}>
                 <div className="container">
                     <div className={style.content}>
-                        <h2 className={style.title}>Benefits of Using Best Publishing Services for Print Placement</h2>
-                            <p className={style.para}>Best Publishing Services continues to evolve, the trusted choice for magazine design for over 40 years. Design exceptional magazines layouts for print and digital with unmatched ease and power.</p>
+                        <h2 className={style.title}>Benefits of Using Best Publishing Service, LLC for Print Placement</h2>
+                            <p className={style.para}>Best Publishing Service, LLC continues to evolve, the trusted choice for magazine design for over 40 years. Design exceptional magazines layouts for print and digital with unmatched ease and power.</p>
                     </div>
                     <Cards />
                     <div className={style.cta}>

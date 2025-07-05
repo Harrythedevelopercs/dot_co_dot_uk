@@ -67,17 +67,17 @@ const data2 = [
     "Memoir Author",
   ],
   // [
-  //   "“I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Services.”",
+  //   "“I have always heard that getting a book published is no easy feat. That changed for me since I collaborated with teams at Best Publishing Service, LLC.”",
   //   "Erica Thames",
   //   "Fiction Writer",
   // ],
   // [
-  //   "“I got my idea transformed into a book! Thanks to the Best Publishing Services.”",
+  //   "“I got my idea transformed into a book! Thanks to the Best Publishing Service, LLC.”",
   //   "Danny Morgan",
   //   "Research and Science Fiction Writer",
   // ],
   // [
-  //   "“I am impressed with what a remarkable job the Best Publishing Services did!”",
+  //   "“I am impressed with what a remarkable job the Best Publishing Service, LLC did!”",
   //   "James P",
   //   "Memoir Author",
   // ],
