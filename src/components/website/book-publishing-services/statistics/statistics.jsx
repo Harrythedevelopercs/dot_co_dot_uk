@@ -1,7 +1,7 @@
 // Next
 import Image from "next/image"
 // Media
-import Img from "media/book-launch-campaigns/statistics.png"
+import Img from "media/book-launch-campaigns/stats3.jpg"
 // Components
 import { CTAGroupLight } from "@/components"
 // Css
