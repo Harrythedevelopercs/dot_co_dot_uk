@@ -1,5 +1,5 @@
 import { Awards, Banner1, Reviews, Traditional, TrustedClients } from "@/components"
-import { ConvertTypes, Hero, Score, Sessions } from "@/components/website/live-session"
+import { ConvertTypes, Hero, Score, Sessions } from "@/components/websitejavascript:;"
 
 export default function LiveSession() {
   return (
