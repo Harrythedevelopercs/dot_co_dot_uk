@@ -9,13 +9,13 @@ import styles from "./cards.module.css"
 
 const data = [
   {
-    title: "<br class='hidden sm:block' /> Seller Badge",
-    para: "Achieve the coveted Best Seller Badge and boost your book’s credibility, sales, and visibility on the world’s largest book marketplace.",
+    title: "Author Seller </br> Badge",
+    para: "Achieve the coveted Best Seller Badge and boost your book’s credibility, sales, and visibility on the world’s largest book marketplace. Unlock unparalleled recognition and stand out in a competitive market.",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
   {
-    title: "Author Online <br class='hidden sm:block' /> Reputation Management",
+    title: "Online <br class='hidden sm:block' /> Reputation Management",
     para: "Enhance your author brand with expert reputation management, ensuring positive reviews, media presence, and trust-building across online platforms.",
     cta: "Read More",
     ctaLink: "javascript:;",
