@@ -7,7 +7,7 @@ import { CTA, MobileRender } from "@/components"
 // Css
 import style from "./sessions.module.css"
 
-const data = ["Regular Polls", "Live Feedback","One-On-One Interaction","Seamless Connectivity with Audience"]
+const data = ["Regular Polls", "Live Feedback","One-On-One Interaction","Audience Connection"]
 
 export default function Sessions() {
     return (

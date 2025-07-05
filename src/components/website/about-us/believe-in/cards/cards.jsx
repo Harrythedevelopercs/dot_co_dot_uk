@@ -7,7 +7,7 @@ const data = [
     "Every writer has a unique style and genre in which they excel. We believe in refining their stories to eliminate errors, perfect the flow, and keep readers hooked on every word.",
   ],
   [
-    "Why Choose Best Publishing Services",
+    "Why Choose Best Publishing Services, LLC",
     "Our team of exceptionally talented individuals has a knack for blending creativity and expertise to create an impactful story.",
   ],
   [

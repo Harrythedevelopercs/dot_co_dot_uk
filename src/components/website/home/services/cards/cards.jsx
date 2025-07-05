@@ -10,7 +10,7 @@ import styles from "./cards.module.css"
 const data = [
   {
     title: "Author Seller </br> Badge",
-    para: "Achieve the coveted Best Seller Badge and boost your book’s credibility, sales, and visibility on the world’s largest book marketplace. Unlock unparalleled recognition and stand out in a competitive market.",
+    para: "Achieve the coveted Best Seller Badge and boost your book’s credibility, sales, and visibility on the world’s largest book marketplace. Unlock unparalleled recognition. ",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
@@ -22,7 +22,7 @@ const data = [
   },
   {
     title: "Building an  <br class='hidden sm:block' /> Online Presence",
-    para: "Establish a powerful online presence with strategic Best Publishing Services, helping you connect with readers, increase engagement, and boost book sales by creating a strong online presence. Start with your website now!",
+    para: "Establish a powerful online presence with strategic Best Publishing Services, helping you connect with readers, increase engagement, and boost book sales. Start now!",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
@@ -46,25 +46,25 @@ const data = [
   },
   {
     title: "Influencer <br class='hidden sm:block' /> Marketing",
-    para: "Boost book sales with strategic influencer marketing, connecting your book withinfluencers, bloggers, and reviewers in your genre. Get the word around with influencers your Target Audience can connect and relate with.",
+    para: "Boost book sales with strategic influencer marketing, connecting your book withinfluencers, bloggers, and reviewers in your genre. Get the word around with influencers.",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
   {
     title: "Press Release<br class='hidden sm:block' /> & Publications",
-    para: "Get your book featured in major media outlets with a compelling press release, enhancing credibility, visibility, and reader interest. We have some of the best platforms on board to spread the word around. ",
+    para: "Get your book featured in major media outlets with a compelling press release, enhancing credibility, visibility, and reader interest. We have some of the best platforms on board. ",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
   {
     title: "Paid Ad  <br class='hidden sm:block' /> Campaigns",
-    para: "Maximize book sales with targeted paid ad campaigns on Amazon, Facebook, and Google, reaching your ideal audience with precision.",
+    para: "Maximize book sales with targeted paid ad campaigns on Amazon, Facebook, and Google, reaching your ideal audience with precision. This strategic approach drives visibility.",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
   {
     title: "TV <br class='hidden sm:block' /> Interviews",
-    para: "Increase your author brand’s credibility with expert-arranged TV interviews, putting your book in front of a massive audience.",
+    para: "Increase your author brand’s credibility with expert-arranged TV interviews, strategically putting your book in front of a massive audience. Gain unparalleled exposure.",
     cta: "Read More",
     ctaLink: "javascript:;",
   },
